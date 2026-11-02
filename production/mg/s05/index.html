@@ -1,0 +1,106 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script><style>body{margin:0;background:#000}#root{position:relative;width:1920px;height:1080px;overflow:hidden;background:radial-gradient(ellipse at 70% 40%,#0c1a26,#05080c 70%);font-family:"Studio Grotesk","Inter",sans-serif;color:#fff}
+.bg{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0}.bg:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(4,7,11,.92),rgba(4,7,11,.35) 70%,rgba(4,7,11,.1));opacity:1}
+.blk{position:absolute;opacity:0;max-width:800px}.huge{max-width:860px}.kick{font-size:22px;letter-spacing:.3em;color:#4fd8ff;font-weight:600;margin-bottom:12px}.saf .kick,.saf.chip,.saf .txt{color:#ffb347}
+.txt{font-weight:700;letter-spacing:.06em;line-height:1.08;text-transform:uppercase}.big .txt{font-size:76px}.mid .txt{font-size:58px}.huge .txt{font-size:104px}.sub .txt{font-size:34px;letter-spacing:.16em;color:#cfe3ee}
+.chip .txt{display:inline-block;font-size:42px;padding:14px 26px;border-left:6px solid #4fd8ff;background:rgba(8,14,20,.8)}.chip.saf .txt{border-left-color:#ffb347}.dim .txt{color:#7f97a6}
+.card{position:absolute;opacity:0;border:2px solid #1f3a4c;border-radius:6px;overflow:hidden;box-shadow:0 12px 40px rgba(0,0,0,.6)}.card .img{position:absolute;inset:0;background-size:cover;background-position:center}.card .ctag{position:absolute;left:0;bottom:0;padding:8px 16px;font-size:18px;letter-spacing:.2em;background:rgba(8,12,18,.85);color:#ffb347;font-weight:600}
+#mapl{position:absolute;inset:0;opacity:0}.state{fill:#10202c;stroke:#2c566f;stroke-width:1.1}.pin circle{transform-box:fill-box;transform-origin:50% 50%}.pin{opacity:0;transform-box:fill-box;transform-origin:50% 50%}
+.lead{stroke:#ffb347;stroke-width:2;stroke-opacity:.0}.pin.gj circle{display:none}.pin.gj{opacity:0}.pin.gj .halo{display:inline;fill:#ff9a3c;fill-opacity:.28}.pin .dot{fill:#ffb347}.pin.cy .dot{fill:#4fd8ff}.pin .ring{fill:none;stroke:#ffb347;stroke-width:3}.pin.cy .ring{stroke:#4fd8ff}
+.split{position:absolute;inset:0;opacity:0}.half{position:absolute;top:0;bottom:0;width:50%;background-size:cover;background-position:center}.half.l{left:0}.half.r{right:0}.divider{position:absolute;left:959px;top:0;bottom:0;width:2px;background:#4fd8ff}
+.split:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(4,7,11,.85),rgba(4,7,11,0) 45%)}</style></head><body>
+<div id="root" data-composition-id="s05" data-start="0" data-duration="76.238" data-width="1920" data-height="1080" data-fps="24">
+<svg id="mapl" width="1920" height="1080" viewBox="0 0 1920 1080"><g id="states"></g><path id="guj" class="state"/><line id="ld_mMicron" class="lead"/><line id="ld_mKaynes" class="lead"/><line id="ld_mCG" class="lead"/><g id="pos_mDholera"><g class="pin cy" id="mDholera"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mSanand"><g class="pin " id="mSanand"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mMicron"><g class="pin " id="mMicron"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mKaynes"><g class="pin " id="mKaynes"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mCG"><g class="pin " id="mCG"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mMohali"><g class="pin " id="mMohali"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g><g id="pos_mSurat"><g class="pin " id="mSurat"><circle class="halo" r="70" style="display:none"/><circle class="ring" r="14"/><circle class="dot" r="9"/></g></g></svg>
+<div class="bg" id="bgcrane" style="background-image:url(assets/crane.jpg);--dim:0.45"></div>
+<div class="blk big" id="b1" style="left:110px;top:430px"><div class="kick">INDIA’S SILICON BET</div><div class="txt">FROM ANNOUNCEMENTS TO FACILITIES</div></div>
+<div class="blk big" id="b2" style="left:110px;top:660px"><div class="kick">MAJOR FOCUS</div><div class="txt">GUJARAT</div></div>
+<div class="card" id="cardD" style="left:110px;top:90px;width:620px;height:349px"><div class="img" style="background-image:url(assets/dholera.jpg)"></div><div class="ctag">CONCEPTUAL VISUALISATION</div></div>
+<div class="blk mid" id="b3" style="left:110px;top:520px"><div class="kick">TATA ELECTRONICS</div><div class="txt">DEVELOPING A FABRICATION FACILITY</div></div>
+<div class="blk chip" id="b4" style="left:110px;top:520px"><div class="kick">DHOLERA · FABRICATION · UNDER DEVELOPMENT</div><div class="txt">TARGET: MID-2028 (REPORTED)</div></div>
+<div class="blk sub" id="b5" style="left:110px;top:690px"><div class="txt">NOT YET OPERATIONAL</div></div>
+<div class="blk mid" id="b6" style="left:110px;top:430px"><div class="kick">SANAND</div><div class="txt">MICRON</div></div>
+<div class="blk chip saf" id="b7" style="left:110px;top:590px"><div class="txt">ASSEMBLY & TESTING</div></div>
+<div class="blk sub dim" id="b8" style="left:110px;top:740px"><div class="txt"><s>WAFER FABRICATION</s></div></div>
+<div class="blk mid" id="b9" style="left:110px;top:430px"><div class="kick">SANAND</div><div class="txt">CG SEMI</div></div>
+<div class="blk chip saf" id="b10" style="left:110px;top:590px"><div class="txt">JUL 2026 · COMMERCIAL PRODUCTION</div></div>
+<div class="split" id="spl"><div class="half l" style="background-image:url(assets/layers.jpg)"></div><div class="half r" style="background-image:url(assets/probe.jpg)"></div><div class="divider"></div></div>
+<div class="blk mid" id="b11" style="left:110px;top:800px;width:700px"><div class="kick">FABRICATION</div><div class="txt">CREATES CIRCUITS ON WAFERS</div></div>
+<div class="blk mid saf" id="b12" style="left:1010px;top:800px;width:800px"><div class="kick">ASSEMBLY & TESTING</div><div class="txt">FINISHED, VERIFIED PRODUCTS</div></div>
+<div class="blk huge" id="b13" style="left:110px;top:300px"><div class="kick">SEMICON INDIA 1.0 · FIRST PHASE</div><div class="txt">12 APPROVED UNITS</div></div>
+<div class="blk chip" id="b14" style="left:110px;top:760px"><div class="txt">3 FABS</div></div>
+<div class="blk chip saf" id="b15" style="left:110px;top:880px"><div class="txt">9 ASSEMBLY & TESTING UNITS</div></div>
+<div class="blk mid saf" id="b16" style="left:110px;top:380px"><div class="txt">MICRON</div></div>
+<div class="blk mid saf" id="b17" style="left:110px;top:500px"><div class="txt">KAYNES</div></div>
+<div class="blk mid saf" id="b18" style="left:110px;top:620px"><div class="txt">CG SEMI</div></div>
+<div class="blk sub" id="b19" style="left:110px;top:760px"><div class="txt">LED THE WAY INTO COMMERCIAL PRODUCTION</div></div>
+<div class="blk huge" id="b20" style="left:110px;top:330px"><div class="kick">SEPTEMBER 2026</div><div class="txt">5 IN COMMERCIAL PRODUCTION</div></div>
+<div class="blk sub saf" id="b21" style="left:110px;top:800px"><div class="txt">ALL ASSEMBLY & TESTING (ATMP/OSAT)</div></div>
+<div class="bg" id="bgatmp" style="background-image:url(assets/atmp.jpg);--dim:0.6"></div>
+<div class="blk huge" id="b22" style="left:110px;top:440px"><div class="kick">CUMULATIVE PROPOSED INVESTMENT</div><div class="txt">₹1.64 LAKH CRORE+</div></div>
+<div class="bg" id="bgring" style="background-image:url(assets/hero_ring.jpg);--dim:0.7"></div>
+<div class="blk huge" id="b23" style="left:110px;top:330px"><div class="kick">APPROVED JULY 2026</div><div class="txt">SEMICON 2.0</div></div>
+<div class="blk huge saf" id="b24" style="left:110px;top:620px"><div class="kick">PROPOSED OUTLAY</div><div class="txt">₹1,27,500 CRORE</div></div>
+<div class="bg" id="bgring2" style="background-image:url(assets/hero_ring.jpg);--dim:0.5"></div>
+<div class="blk big" id="b25" style="left:110px;top:470px"><div class="txt">BIGGER THAN ONE FACTORY</div></div>
+<div class="blk big" id="b26" style="left:110px;top:470px"><div class="txt">BUILD THE ECOSYSTEM BEHIND THE CHIP</div></div>
+</div><script>window.__hf = window.__hf || {}; window.__hf.buildReady = window.__hf.buildReady || {};
+window.__hf.buildReady['map'] = (async () => {
+  const topo = await (await fetch('hf-assets/maps/india-detailed.json')).json(); const key = Object.keys(topo.objects)[0];
+  const fc = topojson.feature(topo, topo.objects.states); const ctry = topojson.feature(topo, topo.objects.country); const proj = d3.geoMercator().fitExtent([[900, 70], [1820, 1010]], ctry); const path = d3.geoPath(proj);
+  const g = document.getElementById('states');
+  fc.features.forEach(f => { const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', path(f)); p.setAttribute('class', 'state');
+    if (f.id === 'gujarat' || (f.properties && f.properties.id === 'gujarat')) { document.getElementById('guj').setAttribute('d', path(f)); return; } g.appendChild(p); });
+  const put = (id, lon, lat, dx = 0, dy = 0) => { const [x, y] = proj([lon, lat]); document.getElementById('pos_' + id).setAttribute('transform', `translate(${x + dx},${y + dy})`); };
+  put('mDholera', 72.02, 22.25); put('mSanand', 72.38, 22.99); put('mMicron', 72.38, 22.99, -46, -30); put('mKaynes', 72.38, 22.99, 0, -52); put('mCG', 72.38, 22.99, 46, -30);
+  const lead = (id, dx, dy) => { const [x, y] = proj([72.38, 22.99]); const l = document.getElementById('ld_' + id); l.setAttribute('x1', x); l.setAttribute('y1', y); l.setAttribute('x2', x + dx); l.setAttribute('y2', y + dy); };
+  lead('mMicron', -46, -30); lead('mKaynes', 0, -52); lead('mCG', 46, -30);
+  put('mMohali', 76.72, 30.70); put('mSurat', 72.83, 21.17);
+})();
+const tl = gsap.timeline({paused: true});
+tl.fromTo('#bgcrane',{opacity:0,scale:1.0},{opacity:1,duration:0.6,ease:'power2.out'},-0.002);tl.to('#bgcrane',{scale:1.07,duration:5.539,ease:'none'},-0.002);tl.to('#bgcrane',{opacity:0,duration:0.4},5.137);
+tl.fromTo('#b1',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},0.417);tl.to('#b1',{opacity:0,duration:0.25,ease:'power2.in'},5.188);
+tl.fromTo('#mapl',{opacity:0},{opacity:1,duration:0.6},5.537);tl.to('#mapl',{opacity:0,duration:0.4},31.788000000000004);
+tl.to('#guj',{fill:'#b8641d',stroke:'#ffb347',duration:0.9,ease:'power2.out'},5.537);tl.to('#guj',{fill:'#3a2a1b',stroke:'#7a5a3a',duration:0.6},12.838);
+tl.fromTo('#b2',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},5.537);tl.to('#b2',{opacity:0,duration:0.25,ease:'power2.in'},7.438);
+tl.fromTo('#cardD',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},7.727);tl.to('#cardD',{opacity:0,duration:0.25,ease:'power2.in'},18.588);
+tl.fromTo('#mDholera',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},11.787);tl.to('#mDholera',{opacity:0,duration:0.3},31.837);
+tl.fromTo('#mDholera .ring',{attr:{r:14},opacity:1},{attr:{r:40},opacity:0,duration:1.2,repeat:6,ease:'power1.out'},11.787);
+tl.fromTo('#b3',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},7.727);tl.to('#b3',{opacity:0,duration:0.25,ease:'power2.in'},12.488);
+tl.fromTo('#b4',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},12.827);tl.to('#b4',{opacity:0,duration:0.25,ease:'power2.in'},18.588);
+tl.fromTo('#b5',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},16.257);tl.to('#b5',{opacity:0,duration:0.25,ease:'power2.in'},18.588);
+tl.fromTo('#mSanand',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},18.977);tl.to('#mSanand',{opacity:0,duration:0.3},47.837);
+tl.fromTo('#mSanand .ring',{attr:{r:14},opacity:1},{attr:{r:40},opacity:0,duration:1.2,repeat:20,ease:'power1.out'},18.977);
+tl.fromTo('#b6',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},20.338);tl.to('#b6',{opacity:0,duration:0.25,ease:'power2.in'},26.088);
+tl.fromTo('#b7',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},22.588);tl.to('#b7',{opacity:0,duration:0.25,ease:'power2.in'},26.088);
+tl.fromTo('#b8',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},24.438);tl.to('#b8',{opacity:0,duration:0.25,ease:'power2.in'},26.088);
+tl.fromTo('#b9',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},26.407);tl.to('#b9',{opacity:0,duration:0.25,ease:'power2.in'},31.887);
+tl.fromTo('#b10',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},29.988);tl.to('#b10',{opacity:0,duration:0.25,ease:'power2.in'},31.887);
+tl.fromTo('#spl',{opacity:0},{opacity:1,duration:0.5},32.188);tl.to('#spl',{opacity:0,duration:0.35},39.287);
+tl.fromTo('#b11',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},32.188);tl.to('#b11',{opacity:0,duration:0.25,ease:'power2.in'},39.387);
+tl.fromTo('#b12',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},35.697);tl.to('#b12',{opacity:0,duration:0.25,ease:'power2.in'},39.387);
+tl.fromTo('#b13',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},39.757);tl.to('#b13',{opacity:0,duration:0.25,ease:'power2.in'},43.088);
+tl.fromTo('#b14',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},42.188);tl.to('#b14',{opacity:0,duration:0.25,ease:'power2.in'},43.088);
+tl.fromTo('#b15',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},42.188);tl.to('#b15',{opacity:0,duration:0.25,ease:'power2.in'},43.088);
+tl.fromTo('#mapl',{opacity:0},{opacity:1,duration:0.6},43.387);tl.to('#mapl',{opacity:0,duration:0.4},51.838);
+tl.fromTo('#mMicron',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},43.387);tl.to('#mMicron',{opacity:0,duration:0.3},51.837);
+tl.fromTo('#mKaynes',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},44.088);tl.to('#mKaynes',{opacity:0,duration:0.3},51.837);
+tl.fromTo('#mCG',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},45.188);tl.to('#mCG',{opacity:0,duration:0.3},51.837);
+tl.fromTo('#ld_mMicron',{strokeOpacity:0},{strokeOpacity:0.75,duration:0.4},43.387);tl.to('#ld_mMicron',{strokeOpacity:0,duration:0.3},51.838);
+tl.fromTo('#ld_mKaynes',{strokeOpacity:0},{strokeOpacity:0.75,duration:0.4},44.088);tl.to('#ld_mKaynes',{strokeOpacity:0,duration:0.3},51.838);
+tl.fromTo('#ld_mCG',{strokeOpacity:0},{strokeOpacity:0.75,duration:0.4},45.188);tl.to('#ld_mCG',{strokeOpacity:0,duration:0.3},51.838);
+tl.fromTo('#b16',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},43.387);tl.to('#b16',{opacity:0,duration:0.25,ease:'power2.in'},47.887);
+tl.fromTo('#b17',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},44.088);tl.to('#b17',{opacity:0,duration:0.25,ease:'power2.in'},47.887);
+tl.fromTo('#b18',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},45.188);tl.to('#b18',{opacity:0,duration:0.25,ease:'power2.in'},47.887);
+tl.fromTo('#b19',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},46.438);tl.to('#b19',{opacity:0,duration:0.25,ease:'power2.in'},47.887);
+tl.fromTo('#mMohali',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},48.528);tl.to('#mMohali',{opacity:0,duration:0.3},51.837);
+tl.fromTo('#mSurat',{opacity:0,scale:0.2},{opacity:1,scale:1,duration:0.45,ease:'back.out(2)'},49.528);tl.to('#mSurat',{opacity:0,duration:0.3},51.837);
+tl.fromTo('#b20',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},50.688);tl.to('#b20',{opacity:0,duration:0.25,ease:'power2.in'},51.988);
+tl.fromTo('#b21',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},51.077);tl.to('#b21',{opacity:0,duration:0.25,ease:'power2.in'},51.988);
+tl.fromTo('#bgatmp',{opacity:0,scale:1.0},{opacity:1,duration:0.6,ease:'power2.out'},52.317);tl.to('#bgatmp',{scale:1.07,duration:5.820,ease:'none'},52.317);tl.to('#bgatmp',{opacity:0,duration:0.4},57.737);
+tl.fromTo('#b22',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},53.037);tl.to('#b22',{opacity:0,duration:0.25,ease:'power2.in'},57.887);
+tl.fromTo('#bgring',{opacity:0,scale:1.0},{opacity:1,duration:0.6,ease:'power2.out'},58.178);tl.to('#bgring',{scale:1.07,duration:11.560,ease:'none'},58.178);tl.to('#bgring',{opacity:0,duration:0.4},69.338);
+tl.fromTo('#b23',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},59.028);tl.to('#b23',{opacity:0,duration:0.25,ease:'power2.in'},69.488);
+tl.fromTo('#b24',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},63.988);tl.to('#b24',{opacity:0,duration:0.25,ease:'power2.in'},69.488);
+tl.fromTo('#bgring2',{opacity:0,scale:1.0},{opacity:1,duration:0.6,ease:'power2.out'},69.738);tl.to('#bgring2',{scale:1.07,duration:6.500,ease:'none'},69.738);tl.to('#bgring2',{opacity:0,duration:0.4},75.838);
+tl.fromTo('#b25',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},70.157);tl.to('#b25',{opacity:0,duration:0.25,ease:'power2.in'},73.087);
+tl.fromTo('#b26',{opacity:0,y:18},{opacity:1,y:0,duration:0.35,ease:'power3.out'},73.387);tl.to('#b26',{opacity:0,duration:0.25,ease:'power2.in'},75.988);
+window.__timelines = {s05: tl};</script></body></html>
