@@ -1,0 +1,44 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script><style>body{margin:0;background:transparent}#root{position:relative;width:1920px;height:1080px;overflow:hidden;background:#000}
+video{position:absolute;left:0;top:0;width:1920px;height:1080px;transform:scale(1.07);transform-origin:50% 50%}
+.lab{position:absolute;display:flex;opacity:0;font-family:"Studio Grotesk","Inter",sans-serif;color:#fff;
+ background:linear-gradient(90deg,rgba(7,11,17,.86),rgba(7,11,17,.62));backdrop-filter:blur(6px);border-radius:4px;box-shadow:0 8px 30px rgba(0,0,0,.45)}
+.lab .bar{width:6px;background:#4fd8ff;border-radius:3px 0 0 3px;box-shadow:0 0 18px #4fd8ff99}
+.lab .body{padding:16px 30px 16px 24px}.lab .kick{font-size:17px;letter-spacing:.28em;color:#4fd8ff;font-weight:600;margin-bottom:6px}
+.lab .txt{font-weight:650;letter-spacing:.12em;text-transform:uppercase;white-space:nowrap}
+.tag{left:96px;bottom:112px}.tag .txt{font-size:34px}
+.stage{left:96px;bottom:112px}.stage .txt{font-size:52px;letter-spacing:.1em}
+.note{right:96px;top:72px}.note .txt{font-size:20px;letter-spacing:.2em;color:#cfe9f4}.note .bar{background:#ffb347;box-shadow:0 0 14px #ffb34788}.note .body{padding:10px 20px 10px 16px}</style></head><body>
+<div id="root" data-composition-id="s03" data-start="0" data-duration="60.0" data-width="1920" data-height="1080" data-fps="24">
+<video src="assets/concat.mp4" data-start="0" data-duration="60.0" muted playsinline></video>
+<div class="lab note" id="l0"><div class="bar"></div><div class="body"><div class="txt">ILLUSTRATIVE MAP</div></div></div>
+<div class="lab stage" id="l1"><div class="bar"></div><div class="body"><div class="kick">PROCESS</div><div class="txt">PHOTOLITHOGRAPHY</div></div></div>
+<div class="lab tag" id="l2"><div class="bar"></div><div class="body"><div class="kick">STEP 1</div><div class="txt">COAT</div></div></div>
+<div class="lab tag" id="l3"><div class="bar"></div><div class="body"><div class="kick">STEP 2</div><div class="txt">EXPOSE</div></div></div>
+<div class="lab tag" id="l4"><div class="bar"></div><div class="body"><div class="kick">STEP 3</div><div class="txt">DEVELOP</div></div></div>
+<div class="lab tag" id="l5"><div class="bar"></div><div class="body"><div class="kick">STEP 4</div><div class="txt">ETCH</div></div></div>
+<div class="lab tag" id="l6"><div class="bar"></div><div class="body"><div class="kick">STEP 5</div><div class="txt">ADD LAYERS</div></div></div>
+<div class="lab tag" id="l7"><div class="bar"></div><div class="body"><div class="txt">ALIGNMENT & CONTROL</div></div></div>
+<div class="lab tag" id="l8"><div class="bar"></div><div class="body"><div class="txt">CONTAMINATION</div></div></div>
+<div class="lab tag" id="l9"><div class="bar"></div><div class="body"><div class="txt">FEWER USABLE CHIPS</div></div></div>
+<div class="lab tag" id="l10"><div class="bar"></div><div class="body"><div class="txt">CLEANROOMS</div></div></div>
+<div class="lab tag" id="l11"><div class="bar"></div><div class="body"><div class="txt">SPECIALISED MACHINES</div></div></div>
+<div class="lab tag" id="l12"><div class="bar"></div><div class="body"><div class="txt">PURE CHEMICALS & GASES</div></div></div>
+<div class="lab tag" id="l13"><div class="bar"></div><div class="body"><div class="txt">TECHNICAL EXPERTISE</div></div></div>
+<div class="lab stage" id="l14"><div class="bar"></div><div class="body"><div class="kick">AFTER FABRICATION</div><div class="txt">ASSEMBLY & TESTING</div></div></div>
+</div><script>const tl = gsap.timeline({paused: true});
+tl.fromTo('#l0', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 0.300);tl.to('#l0', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 3.080);
+tl.fromTo('#l1', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 9.360);tl.to('#l1', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 11.930);
+tl.fromTo('#l2', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 12.740);tl.to('#l2', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 13.580);
+tl.fromTo('#l3', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 14.160);tl.to('#l3', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 16.430);
+tl.fromTo('#l4', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 17.830);tl.to('#l4', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 19.130);
+tl.fromTo('#l5', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 20.510);tl.to('#l5', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 21.030);
+tl.fromTo('#l6', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 21.530);tl.to('#l6', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 22.630);
+tl.fromTo('#l7', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 28.950);tl.to('#l7', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 31.330);
+tl.fromTo('#l8', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 37.750);tl.to('#l8', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 40.230);
+tl.fromTo('#l9', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 41.150);tl.to('#l9', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 43.530);
+tl.fromTo('#l10', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 46.810);tl.to('#l10', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 48.430);
+tl.fromTo('#l11', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 48.800);tl.to('#l11', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 50.130);
+tl.fromTo('#l12', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 50.450);tl.to('#l12', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 52.130);
+tl.fromTo('#l13', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 52.620);tl.to('#l13', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 54.230);
+tl.fromTo('#l14', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 54.550);tl.to('#l14', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 59.730);
+window.__timelines = {s03: tl};</script></body></html>

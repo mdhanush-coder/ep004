@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script><style>body{margin:0;background:transparent}#root{position:relative;width:1920px;height:1080px;overflow:hidden;background:#000}
+video{position:absolute;left:0;top:0;width:1920px;height:1080px;transform:scale(1.07);transform-origin:50% 50%}
+.lab{position:absolute;display:flex;opacity:0;font-family:"Studio Grotesk","Inter",sans-serif;color:#fff;
+ background:linear-gradient(90deg,rgba(7,11,17,.86),rgba(7,11,17,.62));backdrop-filter:blur(6px);border-radius:4px;box-shadow:0 8px 30px rgba(0,0,0,.45)}
+.lab .bar{width:6px;background:#4fd8ff;border-radius:3px 0 0 3px;box-shadow:0 0 18px #4fd8ff99}
+.lab .body{padding:16px 30px 16px 24px}.lab .kick{font-size:17px;letter-spacing:.28em;color:#4fd8ff;font-weight:600;margin-bottom:6px}
+.lab .txt{font-weight:650;letter-spacing:.12em;text-transform:uppercase;white-space:nowrap}
+.tag{left:96px;bottom:112px}.tag .txt{font-size:34px}
+.stage{left:96px;bottom:112px}.stage .txt{font-size:52px;letter-spacing:.1em}
+.note{right:96px;top:72px}.note .txt{font-size:20px;letter-spacing:.2em;color:#cfe9f4}.note .bar{background:#ffb347;box-shadow:0 0 14px #ffb34788}.note .body{padding:10px 20px 10px 16px}</style></head><body>
+<div id="root" data-composition-id="s04" data-start="0" data-duration="48.8125" data-width="1920" data-height="1080" data-fps="24">
+<video src="assets/concat.mp4" data-start="0" data-duration="48.8125" muted playsinline></video>
+<div class="lab note" id="l0"><div class="bar"></div><div class="body"><div class="txt">ILLUSTRATIVE MAP</div></div></div>
+<div class="lab tag" id="l1"><div class="bar"></div><div class="body"><div class="txt">CARS</div></div></div>
+<div class="lab tag" id="l2"><div class="bar"></div><div class="body"><div class="txt">MEDICAL EQUIPMENT</div></div></div>
+<div class="lab tag" id="l3"><div class="bar"></div><div class="body"><div class="txt">COMMUNICATION NETWORKS</div></div></div>
+<div class="lab tag" id="l4"><div class="bar"></div><div class="body"><div class="txt">DEFENCE SYSTEMS</div></div></div>
+<div class="lab tag" id="l5"><div class="bar"></div><div class="body"><div class="txt">SATELLITES</div></div></div>
+<div class="lab tag" id="l6"><div class="bar"></div><div class="body"><div class="txt">DATA CENTRES</div></div></div>
+<div class="lab tag" id="l7"><div class="bar"></div><div class="body"><div class="txt">AI</div></div></div>
+<div class="lab note" id="l8"><div class="bar"></div><div class="body"><div class="txt">ILLUSTRATIVE MAP</div></div></div>
+<div class="lab stage" id="l9"><div class="bar"></div><div class="body"><div class="kick">CAPABILITY</div><div class="txt">DESIGN</div></div></div>
+<div class="lab stage" id="l10"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  01 / 07</div><div class="txt">MANUFACTURING</div></div></div>
+<div class="lab stage" id="l11"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  02 / 07</div><div class="txt">EQUIPMENT</div></div></div>
+<div class="lab stage" id="l12"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  03 / 07</div><div class="txt">MATERIALS</div></div></div>
+<div class="lab stage" id="l13"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  04 / 07</div><div class="txt">PACKAGING</div></div></div>
+<div class="lab stage" id="l14"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  05 / 07</div><div class="txt">TESTING</div></div></div>
+<div class="lab stage" id="l15"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  06 / 07</div><div class="txt">RESEARCH</div></div></div>
+<div class="lab stage" id="l16"><div class="bar"></div><div class="body"><div class="kick">ECOSYSTEM  07 / 07</div><div class="txt">TALENT</div></div></div>
+<div class="lab note" id="l17"><div class="bar"></div><div class="body"><div class="txt">ILLUSTRATIVE MAP</div></div></div>
+</div><script>const tl = gsap.timeline({paused: true});
+tl.fromTo('#l0', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 0.300);tl.to('#l0', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 4.980);
+tl.fromTo('#l1', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 5.400);tl.to('#l1', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 5.800);
+tl.fromTo('#l2', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 5.980);tl.to('#l2', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 6.690);
+tl.fromTo('#l3', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 6.910);tl.to('#l3', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 7.830);
+tl.fromTo('#l4', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 8.050);tl.to('#l4', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 8.670);
+tl.fromTo('#l5', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 8.890);tl.to('#l5', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 9.290);
+tl.fromTo('#l6', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 9.470);tl.to('#l6', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 10.030);
+tl.fromTo('#l7', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 10.250);tl.to('#l7', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 10.930);
+tl.fromTo('#l8', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 11.450);tl.to('#l8', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 16.830);
+tl.fromTo('#l9', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 31.650);tl.to('#l9', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 33.030);
+tl.fromTo('#l10', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 36.470);tl.to('#l10', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 37.170);
+tl.fromTo('#l11', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 37.410);tl.to('#l11', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 38.000);
+tl.fromTo('#l12', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 38.240);tl.to('#l12', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 38.860);
+tl.fromTo('#l13', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 39.100);tl.to('#l13', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 39.520);
+tl.fromTo('#l14', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 39.760);tl.to('#l14', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 40.180);
+tl.fromTo('#l15', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 40.420);tl.to('#l15', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 40.840);
+tl.fromTo('#l16', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 41.080);tl.to('#l16', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 41.710);
+tl.fromTo('#l17', {y: 22, opacity: 0, clipPath: 'inset(0 100% 0 0)'}, {y: 0, opacity: 1, clipPath: 'inset(0 0% 0 0)', duration: 0.32, ease: 'power3.out'}, 22.150);tl.to('#l17', {opacity: 0, y: -10, duration: 0.22, ease: 'power2.in'}, 28.530);
+window.__timelines = {s04: tl};</script></body></html>
