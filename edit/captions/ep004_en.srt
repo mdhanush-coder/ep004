@@ -1,0 +1,468 @@
+1
+00:00:01,371 --> 00:00:05,335
+Every day, you unlock a phone, send a UPI
+
+2
+00:00:05,375 --> 00:00:08,778
+payment, book a train ticket or ask
+
+3
+00:00:08,978 --> 00:00:10,960
+artificial intelligence a question.
+
+4
+00:00:11,380 --> 00:00:12,942
+A car engine starts.
+
+5
+00:00:13,482 --> 00:00:16,305
+A satellite carries information across the planet.
+
+6
+00:00:16,925 --> 00:00:18,228
+Different experiences.
+
+7
+00:00:18,849 --> 00:00:21,395
+One hidden foundation, computer chips.
+
+8
+00:00:21,936 --> 00:00:24,602
+Inside them, billions of microscopic
+
+9
+00:00:24,662 --> 00:00:26,205
+switches process information.
+
+10
+00:00:26,626 --> 00:00:29,532
+India builds software used around the world.
+
+11
+00:00:30,533 --> 00:00:33,439
+So why is building the chips themselves
+
+12
+00:00:33,860 --> 00:00:35,323
+such a difficult challenge?
+
+13
+00:00:36,691 --> 00:00:39,337
+Our journey begins with silicon, found in
+
+14
+00:00:39,377 --> 00:00:40,780
+materials such as quartz.
+
+15
+00:00:41,241 --> 00:00:43,887
+But ordinary sand cannot simply become a
+
+16
+00:00:43,987 --> 00:00:44,548
+processor.
+
+17
+00:00:45,107 --> 00:00:48,051
+Silicon must be refined to extraordinary
+
+18
+00:00:48,171 --> 00:00:50,915
+purity, grown into a single crystal,
+
+19
+00:00:51,416 --> 00:00:53,819
+sliced into thin wafers and polished.
+
+20
+00:00:54,240 --> 00:00:56,923
+Then microscopic structures are created on
+
+21
+00:00:56,963 --> 00:00:57,504
+the wafer.
+
+22
+00:00:57,904 --> 00:01:00,668
+At their heart are transistors, tiny
+
+23
+00:01:00,768 --> 00:01:01,750
+electrical switches.
+
+24
+00:01:02,451 --> 00:01:03,532
+One switch is simple.
+
+25
+00:01:04,053 --> 00:01:05,795
+Billions working together form the
+
+26
+00:01:05,855 --> 00:01:07,457
+foundation of modern computing.
+
+27
+00:01:08,318 --> 00:01:11,502
+Follow one tiny section of this wafer and
+
+28
+00:01:11,542 --> 00:01:14,386
+the scale becomes almost unbelievable.
+
+29
+00:01:15,121 --> 00:01:17,503
+Why can't every country make advanced chips?
+
+30
+00:01:18,204 --> 00:01:20,846
+Because the process demands extraordinary
+
+31
+00:01:20,926 --> 00:01:23,488
+precision, repeated layer after layer.
+
+32
+00:01:23,888 --> 00:01:26,490
+In photolithography, a light-sensitive
+
+33
+00:01:26,550 --> 00:01:28,172
+coating is applied to the wafer.
+
+34
+00:01:28,592 --> 00:01:31,074
+Light transfers a carefully designed pattern.
+
+35
+00:01:31,475 --> 00:01:34,597
+The material is developed, selected areas
+
+36
+00:01:34,957 --> 00:01:37,259
+are etched and new layers are added.
+
+37
+00:01:37,660 --> 00:01:41,223
+The wafer passes through many specialised stages.
+
+38
+00:01:42,227 --> 00:01:45,432
+all requiring precise alignment and control.
+
+39
+00:01:46,452 --> 00:01:49,516
+Now imagine a microscopic particle landing
+
+40
+00:01:49,596 --> 00:01:50,437
+on the surface.
+
+41
+00:01:51,018 --> 00:01:54,002
+At this scale, contamination can damage
+
+42
+00:01:54,102 --> 00:01:57,086
+tiny features and reduce the number of
+
+43
+00:01:57,287 --> 00:01:57,988
+usable chips.
+
+44
+00:01:58,649 --> 00:02:01,437
+That is why fabrication plants need
+
+45
+00:02:01,558 --> 00:02:04,185
+controlled clean rooms, specialised
+
+46
+00:02:04,265 --> 00:02:07,234
+machines, pure chemicals and gases, and
+
+47
+00:02:07,374 --> 00:02:08,799
+deep technical expertise.
+
+48
+00:02:09,300 --> 00:02:11,386
+Even after fabrication, the chip must be
+
+49
+00:02:11,486 --> 00:02:14,395
+cut, packaged, tested, and verified.
+
+50
+00:02:15,142 --> 00:02:17,387
+Now bring this challenge back to India.
+
+51
+00:02:17,767 --> 00:02:20,533
+Chips power far more than phones, cars,
+
+52
+00:02:20,733 --> 00:02:22,677
+medical equipment, communication networks,
+
+53
+00:02:22,797 --> 00:02:24,821
+defence systems, satellites, data centres
+
+54
+00:02:25,002 --> 00:02:25,423
+and AI.
+
+55
+00:02:25,928 --> 00:02:28,830
+Yet, manufacturing is concentrated in a
+
+56
+00:02:28,950 --> 00:02:31,091
+relatively small number of global
+
+57
+00:02:31,131 --> 00:02:32,112
+industrial hubs.
+
+58
+00:02:32,712 --> 00:02:35,054
+A delayed shipment can affect industries
+
+59
+00:02:35,194 --> 00:02:35,854
+far away.
+
+60
+00:02:36,834 --> 00:02:39,256
+For a country building its technological
+
+61
+00:02:39,356 --> 00:02:42,278
+future, that dependence creates a
+
+62
+00:02:42,298 --> 00:02:43,839
+strategic vulnerability.
+
+63
+00:02:44,259 --> 00:02:46,760
+India already has semiconductor design
+
+64
+00:02:46,800 --> 00:02:49,063
+capabilities The challenge is to
+
+65
+00:02:49,123 --> 00:02:50,924
+strengthen the wider ecosystem.
+
+66
+00:02:51,225 --> 00:02:53,566
+Manufacturing, equipment, materials,
+
+67
+00:02:53,847 --> 00:02:56,349
+packaging, testing, research and talent.
+
+68
+00:02:56,729 --> 00:02:59,371
+The goal is not simply to assemble electronics.
+
+69
+00:03:00,032 --> 00:03:02,313
+It is to create more of the technology
+
+70
+00:03:02,373 --> 00:03:02,994
+behind them.
+
+71
+00:03:03,558 --> 00:03:05,160
+India's ambitions are moving from
+
+72
+00:03:05,280 --> 00:03:08,644
+announcements towards facilities and production.
+
+73
+00:03:09,105 --> 00:03:10,887
+Gujarat is a major focus.
+
+74
+00:03:11,287 --> 00:03:13,050
+Tata Electronics is developing a
+
+75
+00:03:13,090 --> 00:03:16,013
+semiconductor fabrication facility at Dholera.
+
+76
+00:03:16,394 --> 00:03:18,857
+In twenty twenty eight, around the middle
+
+77
+00:03:18,877 --> 00:03:20,939
+of the year, commercial production is
+
+78
+00:03:21,019 --> 00:03:21,920
+expected to begin.
+
+79
+00:03:22,541 --> 00:03:23,222
+at Sanand.
+
+80
+00:03:23,903 --> 00:03:26,886
+Micron's facility performs assembly and
+
+81
+00:03:26,946 --> 00:03:29,448
+testing, not wafer fabrication.
+
+82
+00:03:29,969 --> 00:03:32,852
+CG Semi's Sanand facility began commercial
+
+83
+00:03:32,912 --> 00:03:35,414
+production in July of twenty twenty six.
+
+84
+00:03:35,754 --> 00:03:38,297
+Fabrication creates circuits on wafers.
+
+85
+00:03:39,258 --> 00:03:41,140
+Assembly and testing turn them into
+
+86
+00:03:41,280 --> 00:03:42,862
+finished verified products.
+
+87
+00:03:43,322 --> 00:03:44,844
+Twelve units have been approved in the
+
+88
+00:03:44,944 --> 00:03:46,486
+first phase of Semicon India.
+
+89
+00:03:46,946 --> 00:03:49,930
+Micron, Kaynes and CG Semi led the way
+
+90
+00:03:50,030 --> 00:03:51,312
+into commercial production.
+
+91
+00:03:51,772 --> 00:03:54,536
+By September of twenty twenty six, five
+
+92
+00:03:54,636 --> 00:03:55,517
+units had started.
+
+93
+00:03:55,877 --> 00:03:58,500
+Cumulative proposed investment more than
+
+94
+00:03:58,741 --> 00:04:01,244
+one point six four lakh crore rupees.
+
+95
+00:04:01,744 --> 00:04:05,329
+Then, In July of twenty twenty six Semicon
+
+96
+00:04:05,389 --> 00:04:06,912
+two point O was approved.
+
+97
+00:04:07,372 --> 00:04:10,757
+Its proposed outlay one lakh twenty seven
+
+98
+00:04:10,837 --> 00:04:12,800
+thousand five hundred crore rupees.
+
+99
+00:04:13,341 --> 00:04:16,225
+The ambition is bigger than one factory.
+
+100
+00:04:16,946 --> 00:04:19,510
+Build the ecosystem behind the chip.
+
+101
+00:04:20,001 --> 00:04:22,482
+but a semiconductor industry is not built
+
+102
+00:04:22,682 --> 00:04:23,162
+overnight.
+
+103
+00:04:23,662 --> 00:04:26,143
+India needs deeper expertise in advanced
+
+104
+00:04:26,223 --> 00:04:28,544
+manufacturing, equipment materials,
+
+105
+00:04:28,864 --> 00:04:30,725
+research and global supply chains.
+
+106
+00:04:31,185 --> 00:04:33,926
+The real test is not how many factories
+
+107
+00:04:34,006 --> 00:04:34,566
+are announced.
+
+108
+00:04:35,107 --> 00:04:36,927
+It is what the country can master,
+
+109
+00:04:37,407 --> 00:04:41,149
+manufacture reliably and create for itself.
+
+110
+00:04:41,489 --> 00:04:42,669
+Follow the silicon again.
+
+111
+00:04:43,170 --> 00:04:43,870
+Raw material.
+
+112
+00:04:44,590 --> 00:04:46,375
+Wafer microscopic circuits.
+
+113
+00:04:46,976 --> 00:04:47,698
+Finished chip.
+
+114
+00:04:48,079 --> 00:04:50,465
+The next technological revolution will not
+
+115
+00:04:50,525 --> 00:04:52,089
+be powered by software alone.
+
+116
+00:04:52,730 --> 00:04:54,735
+It will also be built on silicon.
+
+117
+00:04:55,076 --> 00:04:57,883
+Can India build an entire future around it?
+

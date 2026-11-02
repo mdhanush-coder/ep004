@@ -1,0 +1,3602 @@
+[
+{
+"scene": 1,
+"word": "Every",
+"start": 1.371,
+"end": 1.651
+},
+{
+"scene": 1,
+"word": "day,",
+"start": 1.711,
+"end": 1.932
+},
+{
+"scene": 1,
+"word": "you",
+"start": 2.292,
+"end": 2.532
+},
+{
+"scene": 1,
+"word": "unlock",
+"start": 2.652,
+"end": 3.013
+},
+{
+"scene": 1,
+"word": "a",
+"start": 3.093,
+"end": 3.133
+},
+{
+"scene": 1,
+"word": "phone,",
+"start": 3.213,
+"end": 3.533
+},
+{
+"scene": 1,
+"word": "send",
+"start": 4.094,
+"end": 4.374
+},
+{
+"scene": 1,
+"word": "a",
+"start": 4.394,
+"end": 4.414
+},
+{
+"scene": 1,
+"word": "UPI",
+"start": 4.834,
+"end": 5.335
+},
+{
+"scene": 1,
+"word": "payment,",
+"start": 5.375,
+"end": 5.795
+},
+{
+"scene": 1,
+"word": "book",
+"start": 6.336,
+"end": 6.576
+},
+{
+"scene": 1,
+"word": "a",
+"start": 6.796,
+"end": 6.836
+},
+{
+"scene": 1,
+"word": "train",
+"start": 6.916,
+"end": 7.236
+},
+{
+"scene": 1,
+"word": "ticket",
+"start": 7.276,
+"end": 7.637
+},
+{
+"scene": 1,
+"word": "or",
+"start": 8.157,
+"end": 8.277
+},
+{
+"scene": 1,
+"word": "ask",
+"start": 8.538,
+"end": 8.778
+},
+{
+"scene": 1,
+"word": "artificial",
+"start": 8.978,
+"end": 9.559
+},
+{
+"scene": 1,
+"word": "intelligence",
+"start": 9.639,
+"end": 10.239
+},
+{
+"scene": 1,
+"word": "a",
+"start": 10.419,
+"end": 10.459
+},
+{
+"scene": 1,
+"word": "question.",
+"start": 10.519,
+"end": 10.96
+},
+{
+"scene": 1,
+"word": "A",
+"start": 11.38,
+"end": 11.44
+},
+{
+"scene": 1,
+"word": "car",
+"start": 11.6,
+"end": 11.961
+},
+{
+"scene": 1,
+"word": "engine",
+"start": 12.041,
+"end": 12.361
+},
+{
+"scene": 1,
+"word": "starts.",
+"start": 12.441,
+"end": 12.942
+},
+{
+"scene": 1,
+"word": "A",
+"start": 13.482,
+"end": 13.522
+},
+{
+"scene": 1,
+"word": "satellite",
+"start": 13.602,
+"end": 14.143
+},
+{
+"scene": 1,
+"word": "carries",
+"start": 14.203,
+"end": 14.543
+},
+{
+"scene": 1,
+"word": "information",
+"start": 14.603,
+"end": 15.184
+},
+{
+"scene": 1,
+"word": "across",
+"start": 15.444,
+"end": 15.764
+},
+{
+"scene": 1,
+"word": "the",
+"start": 15.784,
+"end": 15.884
+},
+{
+"scene": 1,
+"word": "planet.",
+"start": 15.924,
+"end": 16.305
+},
+{
+"scene": 1,
+"word": "Different",
+"start": 16.925,
+"end": 17.386
+},
+{
+"scene": 1,
+"word": "experiences.",
+"start": 17.447,
+"end": 18.228
+},
+{
+"scene": 1,
+"word": "One",
+"start": 18.849,
+"end": 18.97
+},
+{
+"scene": 1,
+"word": "hidden",
+"start": 19.07,
+"end": 19.351
+},
+{
+"scene": 1,
+"word": "foundation,",
+"start": 19.431,
+"end": 20.132
+},
+{
+"scene": 1,
+"word": "computer",
+"start": 20.513,
+"end": 21.054
+},
+{
+"scene": 1,
+"word": "chips.",
+"start": 21.114,
+"end": 21.395
+},
+{
+"scene": 1,
+"word": "Inside",
+"start": 21.936,
+"end": 22.377
+},
+{
+"scene": 1,
+"word": "them,",
+"start": 22.437,
+"end": 22.617
+},
+{
+"scene": 1,
+"word": "billions",
+"start": 23.138,
+"end": 23.619
+},
+{
+"scene": 1,
+"word": "of",
+"start": 23.72,
+"end": 23.8
+},
+{
+"scene": 1,
+"word": "microscopic",
+"start": 23.9,
+"end": 24.602
+},
+{
+"scene": 1,
+"word": "switches",
+"start": 24.662,
+"end": 25.042
+},
+{
+"scene": 1,
+"word": "process",
+"start": 25.163,
+"end": 25.564
+},
+{
+"scene": 1,
+"word": "information.",
+"start": 25.604,
+"end": 26.205
+},
+{
+"scene": 1,
+"word": "India",
+"start": 26.626,
+"end": 27.027
+},
+{
+"scene": 1,
+"word": "builds",
+"start": 27.548,
+"end": 27.868
+},
+{
+"scene": 1,
+"word": "software",
+"start": 27.888,
+"end": 28.47
+},
+{
+"scene": 1,
+"word": "used",
+"start": 28.59,
+"end": 28.75
+},
+{
+"scene": 1,
+"word": "around",
+"start": 28.79,
+"end": 29.051
+},
+{
+"scene": 1,
+"word": "the",
+"start": 29.091,
+"end": 29.191
+},
+{
+"scene": 1,
+"word": "world.",
+"start": 29.231,
+"end": 29.532
+},
+{
+"scene": 1,
+"word": "So",
+"start": 30.533,
+"end": 30.733
+},
+{
+"scene": 1,
+"word": "why",
+"start": 31.054,
+"end": 31.354
+},
+{
+"scene": 1,
+"word": "is",
+"start": 31.435,
+"end": 31.555
+},
+{
+"scene": 1,
+"word": "building",
+"start": 31.635,
+"end": 32.036
+},
+{
+"scene": 1,
+"word": "the",
+"start": 32.096,
+"end": 32.196
+},
+{
+"scene": 1,
+"word": "chips",
+"start": 32.296,
+"end": 32.597
+},
+{
+"scene": 1,
+"word": "themselves",
+"start": 32.757,
+"end": 33.439
+},
+{
+"scene": 1,
+"word": "such",
+"start": 33.86,
+"end": 34.06
+},
+{
+"scene": 1,
+"word": "a",
+"start": 34.1,
+"end": 34.14
+},
+{
+"scene": 1,
+"word": "difficult",
+"start": 34.24,
+"end": 34.741
+},
+{
+"scene": 1,
+"word": "challenge?",
+"start": 34.862,
+"end": 35.323
+},
+{
+"scene": 2,
+"word": "Our",
+"start": 36.691,
+"end": 36.791
+},
+{
+"scene": 2,
+"word": "journey",
+"start": 36.852,
+"end": 37.172
+},
+{
+"scene": 2,
+"word": "begins",
+"start": 37.212,
+"end": 37.513
+},
+{
+"scene": 2,
+"word": "with",
+"start": 37.573,
+"end": 37.714
+},
+{
+"scene": 2,
+"word": "silicon,",
+"start": 37.774,
+"end": 38.315
+},
+{
+"scene": 2,
+"word": "found",
+"start": 38.896,
+"end": 39.197
+},
+{
+"scene": 2,
+"word": "in",
+"start": 39.257,
+"end": 39.337
+},
+{
+"scene": 2,
+"word": "materials",
+"start": 39.377,
+"end": 39.898
+},
+{
+"scene": 2,
+"word": "such",
+"start": 39.938,
+"end": 40.099
+},
+{
+"scene": 2,
+"word": "as",
+"start": 40.179,
+"end": 40.259
+},
+{
+"scene": 2,
+"word": "quartz.",
+"start": 40.399,
+"end": 40.78
+},
+{
+"scene": 2,
+"word": "But",
+"start": 41.241,
+"end": 41.422
+},
+{
+"scene": 2,
+"word": "ordinary",
+"start": 41.762,
+"end": 42.143
+},
+{
+"scene": 2,
+"word": "sand",
+"start": 42.203,
+"end": 42.524
+},
+{
+"scene": 2,
+"word": "cannot",
+"start": 42.604,
+"end": 42.945
+},
+{
+"scene": 2,
+"word": "simply",
+"start": 43.105,
+"end": 43.466
+},
+{
+"scene": 2,
+"word": "become",
+"start": 43.526,
+"end": 43.827
+},
+{
+"scene": 2,
+"word": "a",
+"start": 43.867,
+"end": 43.887
+},
+{
+"scene": 2,
+"word": "processor.",
+"start": 43.987,
+"end": 44.548
+},
+{
+"scene": 2,
+"word": "Silicon",
+"start": 45.107,
+"end": 45.588
+},
+{
+"scene": 2,
+"word": "must",
+"start": 45.728,
+"end": 45.948
+},
+{
+"scene": 2,
+"word": "be",
+"start": 46.029,
+"end": 46.169
+},
+{
+"scene": 2,
+"word": "refined",
+"start": 46.329,
+"end": 46.87
+},
+{
+"scene": 2,
+"word": "to",
+"start": 46.93,
+"end": 47.03
+},
+{
+"scene": 2,
+"word": "extraordinary",
+"start": 47.21,
+"end": 48.051
+},
+{
+"scene": 2,
+"word": "purity,",
+"start": 48.171,
+"end": 48.652
+},
+{
+"scene": 2,
+"word": "grown",
+"start": 49.393,
+"end": 49.673
+},
+{
+"scene": 2,
+"word": "into",
+"start": 49.733,
+"end": 49.934
+},
+{
+"scene": 2,
+"word": "a",
+"start": 49.974,
+"end": 49.994
+},
+{
+"scene": 2,
+"word": "single",
+"start": 50.114,
+"end": 50.434
+},
+{
+"scene": 2,
+"word": "crystal,",
+"start": 50.515,
+"end": 50.915
+},
+{
+"scene": 2,
+"word": "sliced",
+"start": 51.416,
+"end": 51.836
+},
+{
+"scene": 2,
+"word": "into",
+"start": 51.956,
+"end": 52.177
+},
+{
+"scene": 2,
+"word": "thin",
+"start": 52.257,
+"end": 52.477
+},
+{
+"scene": 2,
+"word": "wafers",
+"start": 52.557,
+"end": 52.998
+},
+{
+"scene": 2,
+"word": "and",
+"start": 53.158,
+"end": 53.258
+},
+{
+"scene": 2,
+"word": "polished.",
+"start": 53.398,
+"end": 53.819
+},
+{
+"scene": 2,
+"word": "Then",
+"start": 54.24,
+"end": 54.4
+},
+{
+"scene": 2,
+"word": "microscopic",
+"start": 54.54,
+"end": 55.341
+},
+{
+"scene": 2,
+"word": "structures",
+"start": 55.381,
+"end": 55.842
+},
+{
+"scene": 2,
+"word": "are",
+"start": 55.922,
+"end": 56.022
+},
+{
+"scene": 2,
+"word": "created",
+"start": 56.122,
+"end": 56.583
+},
+{
+"scene": 2,
+"word": "on",
+"start": 56.803,
+"end": 56.923
+},
+{
+"scene": 2,
+"word": "the",
+"start": 56.963,
+"end": 57.083
+},
+{
+"scene": 2,
+"word": "wafer.",
+"start": 57.123,
+"end": 57.504
+},
+{
+"scene": 2,
+"word": "At",
+"start": 57.904,
+"end": 58.025
+},
+{
+"scene": 2,
+"word": "their",
+"start": 58.065,
+"end": 58.285
+},
+{
+"scene": 2,
+"word": "heart",
+"start": 58.385,
+"end": 58.685
+},
+{
+"scene": 2,
+"word": "are",
+"start": 58.866,
+"end": 59.006
+},
+{
+"scene": 2,
+"word": "transistors,",
+"start": 59.066,
+"end": 59.707
+},
+{
+"scene": 2,
+"word": "tiny",
+"start": 60.288,
+"end": 60.668
+},
+{
+"scene": 2,
+"word": "electrical",
+"start": 60.768,
+"end": 61.309
+},
+{
+"scene": 2,
+"word": "switches.",
+"start": 61.369,
+"end": 61.75
+},
+{
+"scene": 2,
+"word": "One",
+"start": 62.451,
+"end": 62.631
+},
+{
+"scene": 2,
+"word": "switch",
+"start": 62.671,
+"end": 62.911
+},
+{
+"scene": 2,
+"word": "is",
+"start": 62.951,
+"end": 63.031
+},
+{
+"scene": 2,
+"word": "simple.",
+"start": 63.111,
+"end": 63.532
+},
+{
+"scene": 2,
+"word": "Billions",
+"start": 64.053,
+"end": 64.473
+},
+{
+"scene": 2,
+"word": "working",
+"start": 64.533,
+"end": 64.834
+},
+{
+"scene": 2,
+"word": "together",
+"start": 64.874,
+"end": 65.274
+},
+{
+"scene": 2,
+"word": "form",
+"start": 65.435,
+"end": 65.695
+},
+{
+"scene": 2,
+"word": "the",
+"start": 65.715,
+"end": 65.795
+},
+{
+"scene": 2,
+"word": "foundation",
+"start": 65.855,
+"end": 66.376
+},
+{
+"scene": 2,
+"word": "of",
+"start": 66.416,
+"end": 66.496
+},
+{
+"scene": 2,
+"word": "modern",
+"start": 66.596,
+"end": 66.897
+},
+{
+"scene": 2,
+"word": "computing.",
+"start": 66.957,
+"end": 67.457
+},
+{
+"scene": 2,
+"word": "Follow",
+"start": 68.318,
+"end": 68.718
+},
+{
+"scene": 2,
+"word": "one",
+"start": 68.999,
+"end": 69.119
+},
+{
+"scene": 2,
+"word": "tiny",
+"start": 69.239,
+"end": 69.599
+},
+{
+"scene": 2,
+"word": "section",
+"start": 69.66,
+"end": 70.02
+},
+{
+"scene": 2,
+"word": "of",
+"start": 70.04,
+"end": 70.1
+},
+{
+"scene": 2,
+"word": "this",
+"start": 70.16,
+"end": 70.28
+},
+{
+"scene": 2,
+"word": "wafer",
+"start": 70.381,
+"end": 70.781
+},
+{
+"scene": 2,
+"word": "and",
+"start": 71.382,
+"end": 71.502
+},
+{
+"scene": 2,
+"word": "the",
+"start": 71.542,
+"end": 71.662
+},
+{
+"scene": 2,
+"word": "scale",
+"start": 71.742,
+"end": 72.223
+},
+{
+"scene": 2,
+"word": "becomes",
+"start": 72.283,
+"end": 72.624
+},
+{
+"scene": 2,
+"word": "almost",
+"start": 72.884,
+"end": 73.304
+},
+{
+"scene": 2,
+"word": "unbelievable.",
+"start": 73.605,
+"end": 74.386
+},
+{
+"scene": 3,
+"word": "Why",
+"start": 75.121,
+"end": 75.341
+},
+{
+"scene": 3,
+"word": "can't",
+"start": 75.401,
+"end": 75.641
+},
+{
+"scene": 3,
+"word": "every",
+"start": 75.722,
+"end": 75.982
+},
+{
+"scene": 3,
+"word": "country",
+"start": 76.042,
+"end": 76.402
+},
+{
+"scene": 3,
+"word": "make",
+"start": 76.482,
+"end": 76.682
+},
+{
+"scene": 3,
+"word": "advanced",
+"start": 76.742,
+"end": 77.143
+},
+{
+"scene": 3,
+"word": "chips?",
+"start": 77.223,
+"end": 77.503
+},
+{
+"scene": 3,
+"word": "Because",
+"start": 78.204,
+"end": 78.604
+},
+{
+"scene": 3,
+"word": "the",
+"start": 78.724,
+"end": 78.824
+},
+{
+"scene": 3,
+"word": "process",
+"start": 78.884,
+"end": 79.365
+},
+{
+"scene": 3,
+"word": "demands",
+"start": 79.405,
+"end": 79.845
+},
+{
+"scene": 3,
+"word": "extraordinary",
+"start": 80.085,
+"end": 80.846
+},
+{
+"scene": 3,
+"word": "precision,",
+"start": 80.926,
+"end": 81.426
+},
+{
+"scene": 3,
+"word": "repeated",
+"start": 81.967,
+"end": 82.507
+},
+{
+"scene": 3,
+"word": "layer",
+"start": 82.607,
+"end": 82.887
+},
+{
+"scene": 3,
+"word": "after",
+"start": 82.968,
+"end": 83.208
+},
+{
+"scene": 3,
+"word": "layer.",
+"start": 83.248,
+"end": 83.488
+},
+{
+"scene": 3,
+"word": "In",
+"start": 83.888,
+"end": 83.988
+},
+{
+"scene": 3,
+"word": "photolithography,",
+"start": 84.108,
+"end": 85.189
+},
+{
+"scene": 3,
+"word": "a",
+"start": 85.53,
+"end": 85.57
+},
+{
+"scene": 3,
+"word": "light-sensitive",
+"start": 85.67,
+"end": 86.49
+},
+{
+"scene": 3,
+"word": "coating",
+"start": 86.55,
+"end": 86.931
+},
+{
+"scene": 3,
+"word": "is",
+"start": 86.991,
+"end": 87.071
+},
+{
+"scene": 3,
+"word": "applied",
+"start": 87.131,
+"end": 87.471
+},
+{
+"scene": 3,
+"word": "to",
+"start": 87.531,
+"end": 87.631
+},
+{
+"scene": 3,
+"word": "the",
+"start": 87.671,
+"end": 87.751
+},
+{
+"scene": 3,
+"word": "wafer.",
+"start": 87.791,
+"end": 88.172
+},
+{
+"scene": 3,
+"word": "Light",
+"start": 88.592,
+"end": 88.852
+},
+{
+"scene": 3,
+"word": "transfers",
+"start": 88.912,
+"end": 89.493
+},
+{
+"scene": 3,
+"word": "a",
+"start": 89.513,
+"end": 89.533
+},
+{
+"scene": 3,
+"word": "carefully",
+"start": 89.753,
+"end": 90.213
+},
+{
+"scene": 3,
+"word": "designed",
+"start": 90.274,
+"end": 90.634
+},
+{
+"scene": 3,
+"word": "pattern.",
+"start": 90.674,
+"end": 91.074
+},
+{
+"scene": 3,
+"word": "The",
+"start": 91.475,
+"end": 91.595
+},
+{
+"scene": 3,
+"word": "material",
+"start": 91.655,
+"end": 92.235
+},
+{
+"scene": 3,
+"word": "is",
+"start": 92.435,
+"end": 92.515
+},
+{
+"scene": 3,
+"word": "developed,",
+"start": 92.575,
+"end": 93.056
+},
+{
+"scene": 3,
+"word": "selected",
+"start": 93.536,
+"end": 94.057
+},
+{
+"scene": 3,
+"word": "areas",
+"start": 94.217,
+"end": 94.597
+},
+{
+"scene": 3,
+"word": "are",
+"start": 94.957,
+"end": 95.077
+},
+{
+"scene": 3,
+"word": "etched",
+"start": 95.258,
+"end": 95.458
+},
+{
+"scene": 3,
+"word": "and",
+"start": 95.818,
+"end": 95.918
+},
+{
+"scene": 3,
+"word": "new",
+"start": 96.018,
+"end": 96.238
+},
+{
+"scene": 3,
+"word": "layers",
+"start": 96.278,
+"end": 96.619
+},
+{
+"scene": 3,
+"word": "are",
+"start": 96.719,
+"end": 96.839
+},
+{
+"scene": 3,
+"word": "added.",
+"start": 96.979,
+"end": 97.259
+},
+{
+"scene": 3,
+"word": "The",
+"start": 97.66,
+"end": 97.78
+},
+{
+"scene": 3,
+"word": "wafer",
+"start": 97.84,
+"end": 98.34
+},
+{
+"scene": 3,
+"word": "passes",
+"start": 98.44,
+"end": 98.881
+},
+{
+"scene": 3,
+"word": "through",
+"start": 98.941,
+"end": 99.181
+},
+{
+"scene": 3,
+"word": "many",
+"start": 99.341,
+"end": 99.621
+},
+{
+"scene": 3,
+"word": "specialised",
+"start": 99.721,
+"end": 100.402
+},
+{
+"scene": 3,
+"word": "stages.",
+"start": 100.642,
+"end": 101.223
+},
+{
+"scene": 3,
+"word": "all",
+"start": 102.227,
+"end": 102.407
+},
+{
+"scene": 3,
+"word": "requiring",
+"start": 102.448,
+"end": 103.028
+},
+{
+"scene": 3,
+"word": "precise",
+"start": 103.149,
+"end": 103.809
+},
+{
+"scene": 3,
+"word": "alignment",
+"start": 104.01,
+"end": 104.55
+},
+{
+"scene": 3,
+"word": "and",
+"start": 104.711,
+"end": 104.811
+},
+{
+"scene": 3,
+"word": "control.",
+"start": 104.891,
+"end": 105.432
+},
+{
+"scene": 3,
+"word": "Now",
+"start": 106.452,
+"end": 107.032
+},
+{
+"scene": 3,
+"word": "imagine",
+"start": 107.093,
+"end": 107.473
+},
+{
+"scene": 3,
+"word": "a",
+"start": 107.493,
+"end": 107.533
+},
+{
+"scene": 3,
+"word": "microscopic",
+"start": 107.593,
+"end": 108.394
+},
+{
+"scene": 3,
+"word": "particle",
+"start": 108.515,
+"end": 108.995
+},
+{
+"scene": 3,
+"word": "landing",
+"start": 109.095,
+"end": 109.516
+},
+{
+"scene": 3,
+"word": "on",
+"start": 109.596,
+"end": 109.676
+},
+{
+"scene": 3,
+"word": "the",
+"start": 109.716,
+"end": 109.836
+},
+{
+"scene": 3,
+"word": "surface.",
+"start": 109.916,
+"end": 110.437
+},
+{
+"scene": 3,
+"word": "At",
+"start": 111.018,
+"end": 111.098
+},
+{
+"scene": 3,
+"word": "this",
+"start": 111.238,
+"end": 111.459
+},
+{
+"scene": 3,
+"word": "scale,",
+"start": 111.559,
+"end": 111.959
+},
+{
+"scene": 3,
+"word": "contamination",
+"start": 112.5,
+"end": 113.321
+},
+{
+"scene": 3,
+"word": "can",
+"start": 113.361,
+"end": 113.521
+},
+{
+"scene": 3,
+"word": "damage",
+"start": 113.622,
+"end": 114.002
+},
+{
+"scene": 3,
+"word": "tiny",
+"start": 114.102,
+"end": 114.423
+},
+{
+"scene": 3,
+"word": "features",
+"start": 114.503,
+"end": 114.923
+},
+{
+"scene": 3,
+"word": "and",
+"start": 115.484,
+"end": 115.604
+},
+{
+"scene": 3,
+"word": "reduce",
+"start": 115.745,
+"end": 116.345
+},
+{
+"scene": 3,
+"word": "the",
+"start": 116.425,
+"end": 116.546
+},
+{
+"scene": 3,
+"word": "number",
+"start": 116.646,
+"end": 116.966
+},
+{
+"scene": 3,
+"word": "of",
+"start": 117.006,
+"end": 117.086
+},
+{
+"scene": 3,
+"word": "usable",
+"start": 117.287,
+"end": 117.647
+},
+{
+"scene": 3,
+"word": "chips.",
+"start": 117.687,
+"end": 117.988
+},
+{
+"scene": 3,
+"word": "That",
+"start": 118.649,
+"end": 118.93
+},
+{
+"scene": 3,
+"word": "is",
+"start": 119.01,
+"end": 119.09
+},
+{
+"scene": 3,
+"word": "why",
+"start": 119.151,
+"end": 119.431
+},
+{
+"scene": 3,
+"word": "fabrication",
+"start": 120.013,
+"end": 120.715
+},
+{
+"scene": 3,
+"word": "plants",
+"start": 120.775,
+"end": 121.136
+},
+{
+"scene": 3,
+"word": "need",
+"start": 121.217,
+"end": 121.437
+},
+{
+"scene": 3,
+"word": "controlled",
+"start": 121.558,
+"end": 122.24
+},
+{
+"scene": 3,
+"word": "clean",
+"start": 122.38,
+"end": 122.681
+},
+{
+"scene": 3,
+"word": "rooms,",
+"start": 122.721,
+"end": 123.002
+},
+{
+"scene": 3,
+"word": "specialised",
+"start": 123.483,
+"end": 124.185
+},
+{
+"scene": 3,
+"word": "machines,",
+"start": 124.265,
+"end": 124.767
+},
+{
+"scene": 3,
+"word": "pure",
+"start": 125.188,
+"end": 125.489
+},
+{
+"scene": 3,
+"word": "chemicals",
+"start": 125.569,
+"end": 126.031
+},
+{
+"scene": 3,
+"word": "and",
+"start": 126.091,
+"end": 126.191
+},
+{
+"scene": 3,
+"word": "gases,",
+"start": 126.251,
+"end": 126.733
+},
+{
+"scene": 3,
+"word": "and",
+"start": 127.134,
+"end": 127.234
+},
+{
+"scene": 3,
+"word": "deep",
+"start": 127.374,
+"end": 127.655
+},
+{
+"scene": 3,
+"word": "technical",
+"start": 127.776,
+"end": 128.217
+},
+{
+"scene": 3,
+"word": "expertise.",
+"start": 128.257,
+"end": 128.799
+},
+{
+"scene": 3,
+"word": "Even",
+"start": 129.3,
+"end": 129.461
+},
+{
+"scene": 3,
+"word": "after",
+"start": 129.541,
+"end": 129.761
+},
+{
+"scene": 3,
+"word": "fabrication,",
+"start": 129.802,
+"end": 130.463
+},
+{
+"scene": 3,
+"word": "the",
+"start": 130.584,
+"end": 130.704
+},
+{
+"scene": 3,
+"word": "chip",
+"start": 130.764,
+"end": 130.985
+},
+{
+"scene": 3,
+"word": "must",
+"start": 131.025,
+"end": 131.206
+},
+{
+"scene": 3,
+"word": "be",
+"start": 131.266,
+"end": 131.386
+},
+{
+"scene": 3,
+"word": "cut,",
+"start": 131.486,
+"end": 131.727
+},
+{
+"scene": 3,
+"word": "packaged,",
+"start": 132.148,
+"end": 132.67
+},
+{
+"scene": 3,
+"word": "tested,",
+"start": 133.071,
+"end": 133.532
+},
+{
+"scene": 3,
+"word": "and",
+"start": 133.713,
+"end": 133.833
+},
+{
+"scene": 3,
+"word": "verified.",
+"start": 133.893,
+"end": 134.395
+},
+{
+"scene": 4,
+"word": "Now",
+"start": 135.142,
+"end": 135.363
+},
+{
+"scene": 4,
+"word": "bring",
+"start": 135.483,
+"end": 135.703
+},
+{
+"scene": 4,
+"word": "this",
+"start": 135.763,
+"end": 135.904
+},
+{
+"scene": 4,
+"word": "challenge",
+"start": 136.024,
+"end": 136.465
+},
+{
+"scene": 4,
+"word": "back",
+"start": 136.565,
+"end": 136.785
+},
+{
+"scene": 4,
+"word": "to",
+"start": 136.846,
+"end": 136.966
+},
+{
+"scene": 4,
+"word": "India.",
+"start": 137.046,
+"end": 137.387
+},
+{
+"scene": 4,
+"word": "Chips",
+"start": 137.767,
+"end": 138.028
+},
+{
+"scene": 4,
+"word": "power",
+"start": 138.128,
+"end": 138.509
+},
+{
+"scene": 4,
+"word": "far",
+"start": 138.749,
+"end": 139.01
+},
+{
+"scene": 4,
+"word": "more",
+"start": 139.07,
+"end": 139.23
+},
+{
+"scene": 4,
+"word": "than",
+"start": 139.27,
+"end": 139.391
+},
+{
+"scene": 4,
+"word": "phones,",
+"start": 139.511,
+"end": 139.892
+},
+{
+"scene": 4,
+"word": "cars,",
+"start": 140.152,
+"end": 140.533
+},
+{
+"scene": 4,
+"word": "medical",
+"start": 140.733,
+"end": 141.034
+},
+{
+"scene": 4,
+"word": "equipment,",
+"start": 141.074,
+"end": 141.535
+},
+{
+"scene": 4,
+"word": "communication",
+"start": 141.655,
+"end": 142.196
+},
+{
+"scene": 4,
+"word": "networks,",
+"start": 142.256,
+"end": 142.677
+},
+{
+"scene": 4,
+"word": "defence",
+"start": 142.797,
+"end": 143.078
+},
+{
+"scene": 4,
+"word": "systems,",
+"start": 143.118,
+"end": 143.479
+},
+{
+"scene": 4,
+"word": "satellites,",
+"start": 143.639,
+"end": 144.12
+},
+{
+"scene": 4,
+"word": "data",
+"start": 144.22,
+"end": 144.461
+},
+{
+"scene": 4,
+"word": "centres",
+"start": 144.501,
+"end": 144.821
+},
+{
+"scene": 4,
+"word": "and",
+"start": 145.002,
+"end": 145.102
+},
+{
+"scene": 4,
+"word": "AI.",
+"start": 145.122,
+"end": 145.423
+},
+{
+"scene": 4,
+"word": "Yet,",
+"start": 145.928,
+"end": 146.188
+},
+{
+"scene": 4,
+"word": "manufacturing",
+"start": 146.568,
+"end": 147.349
+},
+{
+"scene": 4,
+"word": "is",
+"start": 147.409,
+"end": 147.489
+},
+{
+"scene": 4,
+"word": "concentrated",
+"start": 147.609,
+"end": 148.47
+},
+{
+"scene": 4,
+"word": "in",
+"start": 148.69,
+"end": 148.77
+},
+{
+"scene": 4,
+"word": "a",
+"start": 148.81,
+"end": 148.83
+},
+{
+"scene": 4,
+"word": "relatively",
+"start": 148.95,
+"end": 149.57
+},
+{
+"scene": 4,
+"word": "small",
+"start": 149.65,
+"end": 150.071
+},
+{
+"scene": 4,
+"word": "number",
+"start": 150.131,
+"end": 150.451
+},
+{
+"scene": 4,
+"word": "of",
+"start": 150.491,
+"end": 150.571
+},
+{
+"scene": 4,
+"word": "global",
+"start": 150.691,
+"end": 151.091
+},
+{
+"scene": 4,
+"word": "industrial",
+"start": 151.131,
+"end": 151.752
+},
+{
+"scene": 4,
+"word": "hubs.",
+"start": 151.792,
+"end": 152.112
+},
+{
+"scene": 4,
+"word": "A",
+"start": 152.712,
+"end": 152.752
+},
+{
+"scene": 4,
+"word": "delayed",
+"start": 152.832,
+"end": 153.232
+},
+{
+"scene": 4,
+"word": "shipment",
+"start": 153.293,
+"end": 153.713
+},
+{
+"scene": 4,
+"word": "can",
+"start": 153.773,
+"end": 153.933
+},
+{
+"scene": 4,
+"word": "affect",
+"start": 154.053,
+"end": 154.373
+},
+{
+"scene": 4,
+"word": "industries",
+"start": 154.493,
+"end": 155.054
+},
+{
+"scene": 4,
+"word": "far",
+"start": 155.194,
+"end": 155.514
+},
+{
+"scene": 4,
+"word": "away.",
+"start": 155.634,
+"end": 155.854
+},
+{
+"scene": 4,
+"word": "For",
+"start": 156.834,
+"end": 157.054
+},
+{
+"scene": 4,
+"word": "a",
+"start": 157.094,
+"end": 157.114
+},
+{
+"scene": 4,
+"word": "country",
+"start": 157.255,
+"end": 157.695
+},
+{
+"scene": 4,
+"word": "building",
+"start": 157.755,
+"end": 158.155
+},
+{
+"scene": 4,
+"word": "its",
+"start": 158.215,
+"end": 158.355
+},
+{
+"scene": 4,
+"word": "technological",
+"start": 158.475,
+"end": 159.256
+},
+{
+"scene": 4,
+"word": "future,",
+"start": 159.356,
+"end": 159.836
+},
+{
+"scene": 4,
+"word": "that",
+"start": 160.677,
+"end": 160.897
+},
+{
+"scene": 4,
+"word": "dependence",
+"start": 161.017,
+"end": 161.597
+},
+{
+"scene": 4,
+"word": "creates",
+"start": 161.717,
+"end": 162.137
+},
+{
+"scene": 4,
+"word": "a",
+"start": 162.218,
+"end": 162.278
+},
+{
+"scene": 4,
+"word": "strategic",
+"start": 162.298,
+"end": 162.998
+},
+{
+"scene": 4,
+"word": "vulnerability.",
+"start": 163.038,
+"end": 163.839
+},
+{
+"scene": 4,
+"word": "India",
+"start": 164.259,
+"end": 164.599
+},
+{
+"scene": 4,
+"word": "already",
+"start": 164.739,
+"end": 165.119
+},
+{
+"scene": 4,
+"word": "has",
+"start": 165.159,
+"end": 165.439
+},
+{
+"scene": 4,
+"word": "semiconductor",
+"start": 165.58,
+"end": 166.36
+},
+{
+"scene": 4,
+"word": "design",
+"start": 166.4,
+"end": 166.76
+},
+{
+"scene": 4,
+"word": "capabilities",
+"start": 166.8,
+"end": 167.561
+},
+{
+"scene": 4,
+"word": "The",
+"start": 168.102,
+"end": 168.222
+},
+{
+"scene": 4,
+"word": "challenge",
+"start": 168.262,
+"end": 168.683
+},
+{
+"scene": 4,
+"word": "is",
+"start": 168.823,
+"end": 168.903
+},
+{
+"scene": 4,
+"word": "to",
+"start": 168.963,
+"end": 169.063
+},
+{
+"scene": 4,
+"word": "strengthen",
+"start": 169.123,
+"end": 169.623
+},
+{
+"scene": 4,
+"word": "the",
+"start": 169.663,
+"end": 169.763
+},
+{
+"scene": 4,
+"word": "wider",
+"start": 169.823,
+"end": 170.184
+},
+{
+"scene": 4,
+"word": "ecosystem.",
+"start": 170.304,
+"end": 170.924
+},
+{
+"scene": 4,
+"word": "Manufacturing,",
+"start": 171.225,
+"end": 171.925
+},
+{
+"scene": 4,
+"word": "equipment,",
+"start": 172.165,
+"end": 172.686
+},
+{
+"scene": 4,
+"word": "materials,",
+"start": 172.986,
+"end": 173.566
+},
+{
+"scene": 4,
+"word": "packaging,",
+"start": 173.847,
+"end": 174.347
+},
+{
+"scene": 4,
+"word": "testing,",
+"start": 174.507,
+"end": 174.948
+},
+{
+"scene": 4,
+"word": "research",
+"start": 175.168,
+"end": 175.648
+},
+{
+"scene": 4,
+"word": "and",
+"start": 175.828,
+"end": 175.928
+},
+{
+"scene": 4,
+"word": "talent.",
+"start": 176.008,
+"end": 176.349
+},
+{
+"scene": 4,
+"word": "The",
+"start": 176.729,
+"end": 176.849
+},
+{
+"scene": 4,
+"word": "goal",
+"start": 176.909,
+"end": 177.189
+},
+{
+"scene": 4,
+"word": "is",
+"start": 177.269,
+"end": 177.349
+},
+{
+"scene": 4,
+"word": "not",
+"start": 177.389,
+"end": 177.57
+},
+{
+"scene": 4,
+"word": "simply",
+"start": 177.71,
+"end": 178.09
+},
+{
+"scene": 4,
+"word": "to",
+"start": 178.15,
+"end": 178.29
+},
+{
+"scene": 4,
+"word": "assemble",
+"start": 178.33,
+"end": 178.711
+},
+{
+"scene": 4,
+"word": "electronics.",
+"start": 178.771,
+"end": 179.371
+},
+{
+"scene": 4,
+"word": "It",
+"start": 180.032,
+"end": 180.092
+},
+{
+"scene": 4,
+"word": "is",
+"start": 180.172,
+"end": 180.232
+},
+{
+"scene": 4,
+"word": "to",
+"start": 180.272,
+"end": 180.392
+},
+{
+"scene": 4,
+"word": "create",
+"start": 180.452,
+"end": 180.832
+},
+{
+"scene": 4,
+"word": "more",
+"start": 180.972,
+"end": 181.253
+},
+{
+"scene": 4,
+"word": "of",
+"start": 181.313,
+"end": 181.393
+},
+{
+"scene": 4,
+"word": "the",
+"start": 181.473,
+"end": 181.573
+},
+{
+"scene": 4,
+"word": "technology",
+"start": 181.653,
+"end": 182.313
+},
+{
+"scene": 4,
+"word": "behind",
+"start": 182.373,
+"end": 182.774
+},
+{
+"scene": 4,
+"word": "them.",
+"start": 182.854,
+"end": 182.994
+},
+{
+"scene": 5,
+"word": "India's",
+"start": 183.558,
+"end": 183.918
+},
+{
+"scene": 5,
+"word": "ambitions",
+"start": 183.979,
+"end": 184.419
+},
+{
+"scene": 5,
+"word": "are",
+"start": 184.479,
+"end": 184.559
+},
+{
+"scene": 5,
+"word": "moving",
+"start": 184.639,
+"end": 184.94
+},
+{
+"scene": 5,
+"word": "from",
+"start": 185.0,
+"end": 185.16
+},
+{
+"scene": 5,
+"word": "announcements",
+"start": 185.28,
+"end": 186.001
+},
+{
+"scene": 5,
+"word": "towards",
+"start": 186.321,
+"end": 186.662
+},
+{
+"scene": 5,
+"word": "facilities",
+"start": 186.802,
+"end": 187.483
+},
+{
+"scene": 5,
+"word": "and",
+"start": 187.883,
+"end": 188.003
+},
+{
+"scene": 5,
+"word": "production.",
+"start": 188.104,
+"end": 188.644
+},
+{
+"scene": 5,
+"word": "Gujarat",
+"start": 189.105,
+"end": 189.645
+},
+{
+"scene": 5,
+"word": "is",
+"start": 189.786,
+"end": 189.866
+},
+{
+"scene": 5,
+"word": "a",
+"start": 189.926,
+"end": 189.966
+},
+{
+"scene": 5,
+"word": "major",
+"start": 190.086,
+"end": 190.466
+},
+{
+"scene": 5,
+"word": "focus.",
+"start": 190.507,
+"end": 190.887
+},
+{
+"scene": 5,
+"word": "Tata",
+"start": 191.287,
+"end": 191.468
+},
+{
+"scene": 5,
+"word": "Electronics",
+"start": 191.548,
+"end": 192.169
+},
+{
+"scene": 5,
+"word": "is",
+"start": 192.349,
+"end": 192.429
+},
+{
+"scene": 5,
+"word": "developing",
+"start": 192.489,
+"end": 192.949
+},
+{
+"scene": 5,
+"word": "a",
+"start": 192.99,
+"end": 193.05
+},
+{
+"scene": 5,
+"word": "semiconductor",
+"start": 193.09,
+"end": 193.851
+},
+{
+"scene": 5,
+"word": "fabrication",
+"start": 193.891,
+"end": 194.531
+},
+{
+"scene": 5,
+"word": "facility",
+"start": 194.571,
+"end": 195.072
+},
+{
+"scene": 5,
+"word": "at",
+"start": 195.352,
+"end": 195.453
+},
+{
+"scene": 5,
+"word": "Dholera.",
+"start": 195.533,
+"end": 196.013
+},
+{
+"scene": 5,
+"word": "In",
+"start": 196.394,
+"end": 196.494
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 196.594,
+"end": 197.014
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 197.054,
+"end": 197.335
+},
+{
+"scene": 5,
+"word": "eight,",
+"start": 197.395,
+"end": 197.595
+},
+{
+"scene": 5,
+"word": "around",
+"start": 198.096,
+"end": 198.376
+},
+{
+"scene": 5,
+"word": "the",
+"start": 198.416,
+"end": 198.496
+},
+{
+"scene": 5,
+"word": "middle",
+"start": 198.576,
+"end": 198.857
+},
+{
+"scene": 5,
+"word": "of",
+"start": 198.877,
+"end": 198.937
+},
+{
+"scene": 5,
+"word": "the",
+"start": 198.977,
+"end": 199.077
+},
+{
+"scene": 5,
+"word": "year,",
+"start": 199.097,
+"end": 199.337
+},
+{
+"scene": 5,
+"word": "commercial",
+"start": 199.818,
+"end": 200.218
+},
+{
+"scene": 5,
+"word": "production",
+"start": 200.258,
+"end": 200.679
+},
+{
+"scene": 5,
+"word": "is",
+"start": 200.859,
+"end": 200.939
+},
+{
+"scene": 5,
+"word": "expected",
+"start": 201.019,
+"end": 201.48
+},
+{
+"scene": 5,
+"word": "to",
+"start": 201.52,
+"end": 201.6
+},
+{
+"scene": 5,
+"word": "begin.",
+"start": 201.66,
+"end": 201.92
+},
+{
+"scene": 5,
+"word": "at",
+"start": 202.541,
+"end": 202.621
+},
+{
+"scene": 5,
+"word": "Sanand.",
+"start": 202.761,
+"end": 203.222
+},
+{
+"scene": 5,
+"word": "Micron's",
+"start": 203.903,
+"end": 204.383
+},
+{
+"scene": 5,
+"word": "facility",
+"start": 204.483,
+"end": 205.024
+},
+{
+"scene": 5,
+"word": "performs",
+"start": 205.464,
+"end": 205.965
+},
+{
+"scene": 5,
+"word": "assembly",
+"start": 206.145,
+"end": 206.605
+},
+{
+"scene": 5,
+"word": "and",
+"start": 206.785,
+"end": 206.886
+},
+{
+"scene": 5,
+"word": "testing,",
+"start": 206.946,
+"end": 207.366
+},
+{
+"scene": 5,
+"word": "not",
+"start": 207.987,
+"end": 208.207
+},
+{
+"scene": 5,
+"word": "wafer",
+"start": 208.307,
+"end": 208.687
+},
+{
+"scene": 5,
+"word": "fabrication.",
+"start": 208.767,
+"end": 209.448
+},
+{
+"scene": 5,
+"word": "CG",
+"start": 209.969,
+"end": 210.389
+},
+{
+"scene": 5,
+"word": "Semi's",
+"start": 210.429,
+"end": 210.809
+},
+{
+"scene": 5,
+"word": "Sanand",
+"start": 210.89,
+"end": 211.33
+},
+{
+"scene": 5,
+"word": "facility",
+"start": 211.39,
+"end": 211.891
+},
+{
+"scene": 5,
+"word": "began",
+"start": 211.991,
+"end": 212.291
+},
+{
+"scene": 5,
+"word": "commercial",
+"start": 212.411,
+"end": 212.852
+},
+{
+"scene": 5,
+"word": "production",
+"start": 212.912,
+"end": 213.372
+},
+{
+"scene": 5,
+"word": "in",
+"start": 213.552,
+"end": 213.632
+},
+{
+"scene": 5,
+"word": "July",
+"start": 213.712,
+"end": 214.113
+},
+{
+"scene": 5,
+"word": "of",
+"start": 214.253,
+"end": 214.333
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 214.393,
+"end": 214.753
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 214.814,
+"end": 215.134
+},
+{
+"scene": 5,
+"word": "six.",
+"start": 215.174,
+"end": 215.414
+},
+{
+"scene": 5,
+"word": "Fabrication",
+"start": 215.754,
+"end": 216.475
+},
+{
+"scene": 5,
+"word": "creates",
+"start": 216.535,
+"end": 216.976
+},
+{
+"scene": 5,
+"word": "circuits",
+"start": 217.136,
+"end": 217.576
+},
+{
+"scene": 5,
+"word": "on",
+"start": 217.756,
+"end": 217.837
+},
+{
+"scene": 5,
+"word": "wafers.",
+"start": 217.897,
+"end": 218.297
+},
+{
+"scene": 5,
+"word": "Assembly",
+"start": 219.258,
+"end": 219.738
+},
+{
+"scene": 5,
+"word": "and",
+"start": 219.779,
+"end": 219.859
+},
+{
+"scene": 5,
+"word": "testing",
+"start": 219.939,
+"end": 220.399
+},
+{
+"scene": 5,
+"word": "turn",
+"start": 220.439,
+"end": 220.679
+},
+{
+"scene": 5,
+"word": "them",
+"start": 220.719,
+"end": 220.86
+},
+{
+"scene": 5,
+"word": "into",
+"start": 220.92,
+"end": 221.14
+},
+{
+"scene": 5,
+"word": "finished",
+"start": 221.28,
+"end": 221.66
+},
+{
+"scene": 5,
+"word": "verified",
+"start": 221.941,
+"end": 222.421
+},
+{
+"scene": 5,
+"word": "products.",
+"start": 222.461,
+"end": 222.862
+},
+{
+"scene": 5,
+"word": "Twelve",
+"start": 223.322,
+"end": 223.622
+},
+{
+"scene": 5,
+"word": "units",
+"start": 223.703,
+"end": 223.923
+},
+{
+"scene": 5,
+"word": "have",
+"start": 223.963,
+"end": 224.083
+},
+{
+"scene": 5,
+"word": "been",
+"start": 224.123,
+"end": 224.243
+},
+{
+"scene": 5,
+"word": "approved",
+"start": 224.303,
+"end": 224.624
+},
+{
+"scene": 5,
+"word": "in",
+"start": 224.664,
+"end": 224.724
+},
+{
+"scene": 5,
+"word": "the",
+"start": 224.764,
+"end": 224.844
+},
+{
+"scene": 5,
+"word": "first",
+"start": 224.944,
+"end": 225.204
+},
+{
+"scene": 5,
+"word": "phase",
+"start": 225.264,
+"end": 225.525
+},
+{
+"scene": 5,
+"word": "of",
+"start": 225.585,
+"end": 225.645
+},
+{
+"scene": 5,
+"word": "Semicon",
+"start": 225.745,
+"end": 226.145
+},
+{
+"scene": 5,
+"word": "India.",
+"start": 226.186,
+"end": 226.486
+},
+{
+"scene": 5,
+"word": "Micron,",
+"start": 226.946,
+"end": 227.527
+},
+{
+"scene": 5,
+"word": "Kaynes",
+"start": 227.647,
+"end": 227.988
+},
+{
+"scene": 5,
+"word": "and",
+"start": 228.528,
+"end": 228.668
+},
+{
+"scene": 5,
+"word": "CG",
+"start": 228.749,
+"end": 229.069
+},
+{
+"scene": 5,
+"word": "Semi",
+"start": 229.109,
+"end": 229.349
+},
+{
+"scene": 5,
+"word": "led",
+"start": 229.409,
+"end": 229.59
+},
+{
+"scene": 5,
+"word": "the",
+"start": 229.63,
+"end": 229.73
+},
+{
+"scene": 5,
+"word": "way",
+"start": 229.77,
+"end": 229.93
+},
+{
+"scene": 5,
+"word": "into",
+"start": 230.03,
+"end": 230.23
+},
+{
+"scene": 5,
+"word": "commercial",
+"start": 230.31,
+"end": 230.791
+},
+{
+"scene": 5,
+"word": "production.",
+"start": 230.851,
+"end": 231.312
+},
+{
+"scene": 5,
+"word": "By",
+"start": 231.772,
+"end": 232.013
+},
+{
+"scene": 5,
+"word": "September",
+"start": 232.093,
+"end": 232.593
+},
+{
+"scene": 5,
+"word": "of",
+"start": 232.613,
+"end": 232.673
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 232.773,
+"end": 233.054
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 233.094,
+"end": 233.354
+},
+{
+"scene": 5,
+"word": "six,",
+"start": 233.394,
+"end": 233.634
+},
+{
+"scene": 5,
+"word": "five",
+"start": 234.255,
+"end": 234.536
+},
+{
+"scene": 5,
+"word": "units",
+"start": 234.636,
+"end": 234.896
+},
+{
+"scene": 5,
+"word": "had",
+"start": 234.936,
+"end": 235.056
+},
+{
+"scene": 5,
+"word": "started.",
+"start": 235.116,
+"end": 235.517
+},
+{
+"scene": 5,
+"word": "Cumulative",
+"start": 235.877,
+"end": 236.498
+},
+{
+"scene": 5,
+"word": "proposed",
+"start": 236.598,
+"end": 237.119
+},
+{
+"scene": 5,
+"word": "investment",
+"start": 237.219,
+"end": 237.839
+},
+{
+"scene": 5,
+"word": "more",
+"start": 238.04,
+"end": 238.26
+},
+{
+"scene": 5,
+"word": "than",
+"start": 238.34,
+"end": 238.5
+},
+{
+"scene": 5,
+"word": "one",
+"start": 238.741,
+"end": 238.861
+},
+{
+"scene": 5,
+"word": "point",
+"start": 238.921,
+"end": 239.181
+},
+{
+"scene": 5,
+"word": "six",
+"start": 239.281,
+"end": 239.542
+},
+{
+"scene": 5,
+"word": "four",
+"start": 239.662,
+"end": 239.942
+},
+{
+"scene": 5,
+"word": "lakh",
+"start": 240.082,
+"end": 240.403
+},
+{
+"scene": 5,
+"word": "crore",
+"start": 240.463,
+"end": 240.763
+},
+{
+"scene": 5,
+"word": "rupees.",
+"start": 240.803,
+"end": 241.244
+},
+{
+"scene": 5,
+"word": "Then,",
+"start": 241.744,
+"end": 241.944
+},
+{
+"scene": 5,
+"word": "In",
+"start": 242.585,
+"end": 242.685
+},
+{
+"scene": 5,
+"word": "July",
+"start": 242.745,
+"end": 243.146
+},
+{
+"scene": 5,
+"word": "of",
+"start": 243.246,
+"end": 243.346
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 243.406,
+"end": 243.667
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 243.707,
+"end": 243.967
+},
+{
+"scene": 5,
+"word": "six",
+"start": 244.027,
+"end": 244.268
+},
+{
+"scene": 5,
+"word": "Semicon",
+"start": 244.849,
+"end": 245.329
+},
+{
+"scene": 5,
+"word": "two",
+"start": 245.389,
+"end": 245.55
+},
+{
+"scene": 5,
+"word": "point",
+"start": 245.61,
+"end": 245.85
+},
+{
+"scene": 5,
+"word": "O",
+"start": 246.07,
+"end": 246.19
+},
+{
+"scene": 5,
+"word": "was",
+"start": 246.311,
+"end": 246.451
+},
+{
+"scene": 5,
+"word": "approved.",
+"start": 246.511,
+"end": 246.912
+},
+{
+"scene": 5,
+"word": "Its",
+"start": 247.372,
+"end": 247.472
+},
+{
+"scene": 5,
+"word": "proposed",
+"start": 247.552,
+"end": 247.993
+},
+{
+"scene": 5,
+"word": "outlay",
+"start": 248.173,
+"end": 248.594
+},
+{
+"scene": 5,
+"word": "one",
+"start": 249.295,
+"end": 249.415
+},
+{
+"scene": 5,
+"word": "lakh",
+"start": 249.495,
+"end": 249.796
+},
+{
+"scene": 5,
+"word": "twenty",
+"start": 250.036,
+"end": 250.417
+},
+{
+"scene": 5,
+"word": "seven",
+"start": 250.477,
+"end": 250.757
+},
+{
+"scene": 5,
+"word": "thousand",
+"start": 250.837,
+"end": 251.218
+},
+{
+"scene": 5,
+"word": "five",
+"start": 251.338,
+"end": 251.578
+},
+{
+"scene": 5,
+"word": "hundred",
+"start": 251.618,
+"end": 251.899
+},
+{
+"scene": 5,
+"word": "crore",
+"start": 251.979,
+"end": 252.299
+},
+{
+"scene": 5,
+"word": "rupees.",
+"start": 252.339,
+"end": 252.8
+},
+{
+"scene": 5,
+"word": "The",
+"start": 253.341,
+"end": 253.481
+},
+{
+"scene": 5,
+"word": "ambition",
+"start": 253.721,
+"end": 254.242
+},
+{
+"scene": 5,
+"word": "is",
+"start": 254.463,
+"end": 254.563
+},
+{
+"scene": 5,
+"word": "bigger",
+"start": 254.723,
+"end": 255.063
+},
+{
+"scene": 5,
+"word": "than",
+"start": 255.144,
+"end": 255.304
+},
+{
+"scene": 5,
+"word": "one",
+"start": 255.524,
+"end": 255.644
+},
+{
+"scene": 5,
+"word": "factory.",
+"start": 255.744,
+"end": 256.225
+},
+{
+"scene": 5,
+"word": "Build",
+"start": 256.946,
+"end": 257.267
+},
+{
+"scene": 5,
+"word": "the",
+"start": 257.307,
+"end": 257.407
+},
+{
+"scene": 5,
+"word": "ecosystem",
+"start": 257.527,
+"end": 258.248
+},
+{
+"scene": 5,
+"word": "behind",
+"start": 258.569,
+"end": 259.049
+},
+{
+"scene": 5,
+"word": "the",
+"start": 259.109,
+"end": 259.209
+},
+{
+"scene": 5,
+"word": "chip.",
+"start": 259.25,
+"end": 259.51
+},
+{
+"scene": 6,
+"word": "but",
+"start": 260.001,
+"end": 260.121
+},
+{
+"scene": 6,
+"word": "a",
+"start": 260.181,
+"end": 260.201
+},
+{
+"scene": 6,
+"word": "semiconductor",
+"start": 260.281,
+"end": 261.021
+},
+{
+"scene": 6,
+"word": "industry",
+"start": 261.081,
+"end": 261.582
+},
+{
+"scene": 6,
+"word": "is",
+"start": 261.722,
+"end": 261.802
+},
+{
+"scene": 6,
+"word": "not",
+"start": 261.922,
+"end": 262.142
+},
+{
+"scene": 6,
+"word": "built",
+"start": 262.242,
+"end": 262.482
+},
+{
+"scene": 6,
+"word": "overnight.",
+"start": 262.682,
+"end": 263.162
+},
+{
+"scene": 6,
+"word": "India",
+"start": 263.662,
+"end": 263.922
+},
+{
+"scene": 6,
+"word": "needs",
+"start": 263.982,
+"end": 264.223
+},
+{
+"scene": 6,
+"word": "deeper",
+"start": 264.343,
+"end": 264.663
+},
+{
+"scene": 6,
+"word": "expertise",
+"start": 264.723,
+"end": 265.343
+},
+{
+"scene": 6,
+"word": "in",
+"start": 265.503,
+"end": 265.583
+},
+{
+"scene": 6,
+"word": "advanced",
+"start": 265.703,
+"end": 266.143
+},
+{
+"scene": 6,
+"word": "manufacturing,",
+"start": 266.223,
+"end": 266.964
+},
+{
+"scene": 6,
+"word": "equipment",
+"start": 267.444,
+"end": 267.924
+},
+{
+"scene": 6,
+"word": "materials,",
+"start": 268.004,
+"end": 268.544
+},
+{
+"scene": 6,
+"word": "research",
+"start": 268.864,
+"end": 269.284
+},
+{
+"scene": 6,
+"word": "and",
+"start": 269.484,
+"end": 269.585
+},
+{
+"scene": 6,
+"word": "global",
+"start": 269.665,
+"end": 270.025
+},
+{
+"scene": 6,
+"word": "supply",
+"start": 270.065,
+"end": 270.365
+},
+{
+"scene": 6,
+"word": "chains.",
+"start": 270.405,
+"end": 270.725
+},
+{
+"scene": 6,
+"word": "The",
+"start": 271.185,
+"end": 271.305
+},
+{
+"scene": 6,
+"word": "real",
+"start": 271.425,
+"end": 271.725
+},
+{
+"scene": 6,
+"word": "test",
+"start": 271.825,
+"end": 272.125
+},
+{
+"scene": 6,
+"word": "is",
+"start": 272.466,
+"end": 272.546
+},
+{
+"scene": 6,
+"word": "not",
+"start": 272.666,
+"end": 272.906
+},
+{
+"scene": 6,
+"word": "how",
+"start": 272.986,
+"end": 273.166
+},
+{
+"scene": 6,
+"word": "many",
+"start": 273.206,
+"end": 273.366
+},
+{
+"scene": 6,
+"word": "factories",
+"start": 273.446,
+"end": 273.926
+},
+{
+"scene": 6,
+"word": "are",
+"start": 274.006,
+"end": 274.086
+},
+{
+"scene": 6,
+"word": "announced.",
+"start": 274.126,
+"end": 274.566
+},
+{
+"scene": 6,
+"word": "It",
+"start": 275.107,
+"end": 275.167
+},
+{
+"scene": 6,
+"word": "is",
+"start": 275.227,
+"end": 275.307
+},
+{
+"scene": 6,
+"word": "what",
+"start": 275.387,
+"end": 275.547
+},
+{
+"scene": 6,
+"word": "the",
+"start": 275.587,
+"end": 275.687
+},
+{
+"scene": 6,
+"word": "country",
+"start": 275.747,
+"end": 276.127
+},
+{
+"scene": 6,
+"word": "can",
+"start": 276.167,
+"end": 276.327
+},
+{
+"scene": 6,
+"word": "master,",
+"start": 276.427,
+"end": 276.927
+},
+{
+"scene": 6,
+"word": "manufacture",
+"start": 277.407,
+"end": 278.268
+},
+{
+"scene": 6,
+"word": "reliably",
+"start": 278.328,
+"end": 279.128
+},
+{
+"scene": 6,
+"word": "and",
+"start": 279.768,
+"end": 279.888
+},
+{
+"scene": 6,
+"word": "create",
+"start": 280.028,
+"end": 280.469
+},
+{
+"scene": 6,
+"word": "for",
+"start": 280.529,
+"end": 280.669
+},
+{
+"scene": 6,
+"word": "itself.",
+"start": 280.729,
+"end": 281.149
+},
+{
+"scene": 6,
+"word": "Follow",
+"start": 281.489,
+"end": 281.769
+},
+{
+"scene": 6,
+"word": "the",
+"start": 281.809,
+"end": 281.889
+},
+{
+"scene": 6,
+"word": "silicon",
+"start": 281.929,
+"end": 282.329
+},
+{
+"scene": 6,
+"word": "again.",
+"start": 282.349,
+"end": 282.669
+},
+{
+"scene": 6,
+"word": "Raw",
+"start": 283.17,
+"end": 283.37
+},
+{
+"scene": 6,
+"word": "material.",
+"start": 283.39,
+"end": 283.87
+},
+{
+"scene": 6,
+"word": "Wafer",
+"start": 284.59,
+"end": 285.051
+},
+{
+"scene": 6,
+"word": "microscopic",
+"start": 285.152,
+"end": 285.873
+},
+{
+"scene": 6,
+"word": "circuits.",
+"start": 285.934,
+"end": 286.375
+},
+{
+"scene": 6,
+"word": "Finished",
+"start": 286.976,
+"end": 287.317
+},
+{
+"scene": 6,
+"word": "chip.",
+"start": 287.457,
+"end": 287.698
+},
+{
+"scene": 6,
+"word": "The",
+"start": 288.079,
+"end": 288.219
+},
+{
+"scene": 6,
+"word": "next",
+"start": 288.339,
+"end": 288.62
+},
+{
+"scene": 6,
+"word": "technological",
+"start": 288.66,
+"end": 289.302
+},
+{
+"scene": 6,
+"word": "revolution",
+"start": 289.362,
+"end": 289.883
+},
+{
+"scene": 6,
+"word": "will",
+"start": 289.983,
+"end": 290.184
+},
+{
+"scene": 6,
+"word": "not",
+"start": 290.264,
+"end": 290.465
+},
+{
+"scene": 6,
+"word": "be",
+"start": 290.525,
+"end": 290.645
+},
+{
+"scene": 6,
+"word": "powered",
+"start": 290.685,
+"end": 291.046
+},
+{
+"scene": 6,
+"word": "by",
+"start": 291.086,
+"end": 291.206
+},
+{
+"scene": 6,
+"word": "software",
+"start": 291.267,
+"end": 291.748
+},
+{
+"scene": 6,
+"word": "alone.",
+"start": 291.788,
+"end": 292.089
+},
+{
+"scene": 6,
+"word": "It",
+"start": 292.73,
+"end": 292.79
+},
+{
+"scene": 6,
+"word": "will",
+"start": 292.83,
+"end": 293.011
+},
+{
+"scene": 6,
+"word": "also",
+"start": 293.151,
+"end": 293.452
+},
+{
+"scene": 6,
+"word": "be",
+"start": 293.512,
+"end": 293.612
+},
+{
+"scene": 6,
+"word": "built",
+"start": 293.692,
+"end": 293.913
+},
+{
+"scene": 6,
+"word": "on",
+"start": 293.993,
+"end": 294.073
+},
+{
+"scene": 6,
+"word": "silicon.",
+"start": 294.254,
+"end": 294.735
+},
+{
+"scene": 6,
+"word": "Can",
+"start": 295.076,
+"end": 295.316
+},
+{
+"scene": 6,
+"word": "India",
+"start": 295.477,
+"end": 295.818
+},
+{
+"scene": 6,
+"word": "build",
+"start": 295.918,
+"end": 296.179
+},
+{
+"scene": 6,
+"word": "an",
+"start": 296.219,
+"end": 296.279
+},
+{
+"scene": 6,
+"word": "entire",
+"start": 296.439,
+"end": 296.9
+},
+{
+"scene": 6,
+"word": "future",
+"start": 296.981,
+"end": 297.361
+},
+{
+"scene": 6,
+"word": "around",
+"start": 297.402,
+"end": 297.742
+},
+{
+"scene": 6,
+"word": "it?",
+"start": 297.803,
+"end": 297.883
+}
+]
